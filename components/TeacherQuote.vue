@@ -8,19 +8,16 @@
                     </div>
                     <div class="content">
                         <div class="section-title">
-                            <h2 class="title">Ger rid of <span>Old School Assumptions</span></h2>
+                            <h2 class="title">Lorem Ipsum  <span>Dummy Text</span></h2>
                         </div>
                         <div class="row">
                             <div class="quote">
-                                <p>I assist learners in finding new effective belief and get rid of the outdated, discouraged and irrelevant life attitudes. You're upgrading to be a better you.</p>
+                                <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. </p>
                             </div>
                             <div class="experience">
-                                <span class="amount">19<span>years</span></span>
-                                <h6 class="title">Work Experience</h6>
-                                <n-link to="" class="link">
-                                    Get Free Guide 
-                                    <i class="far fa-long-arrow-right"></i>
-                                </n-link>
+                                <span class="amount">5<span>lat</span></span>
+                                <h6 class="title">Doświadczenia Zawodowego</h6>
+                                
                             </div>
                         </div>
                     </div>

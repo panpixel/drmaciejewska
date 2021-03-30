@@ -27,16 +27,7 @@
                                 </h3>
                             </div>
                             <div class="course-caption-collapse">
-                                <ul class="meta">
-                                    <li>
-                                        <i class="far fa-file-alt"></i>
-                                        {{ course.lessons }}
-                                    </li>
-                                    <li>
-                                        <i class="far fa-user-alt"></i>
-                                        {{ course.students }}
-                                    </li>
-                                </ul>
+                                
                                 <div class="desc">
                                     <p>{{ course.desc }}</p>
                                 </div>
