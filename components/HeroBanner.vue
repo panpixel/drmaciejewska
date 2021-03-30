@@ -30,12 +30,12 @@
                                 </n-link>
                             </div>
                             <div class="info">
-                                <span class="price">Free</span>
+                                <span class="price">500 zł</span>
                                <h3 class="title">
-                                    <n-link to="/">Customer-centric Info-Tech Strategies</n-link>
+                                    <n-link to="/powiekszanie-ust">Powiększanie ust</n-link>
                                 </h3>
                                 <div class="desc">
-                                    <p>Now more than ever, corporations are investing heavily in IT. The quality of these investments affects the daily…</p>
+                                    <p>Pełne i wydatne usta o regularnym konturze to marzenie wielu kobiet. Obecnie jedną z najpopularniejszych metod ...</p>
                                 </div>
                             </div>
                         </div>

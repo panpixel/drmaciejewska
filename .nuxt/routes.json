@@ -98,11 +98,25 @@
     "_name": "_5964fb82"
   },
   {
+    "name": "powiekszanie-ust",
+    "path": "/powiekszanie-ust",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\powiekszanie-ust.vue",
+    "chunkName": "pages/powiekszanie-ust",
+    "_name": "_50e437cf"
+  },
+  {
     "name": "remote-training",
     "path": "/remote-training",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\remote-training.vue",
     "chunkName": "pages/remote-training",
     "_name": "_3a134e72"
+  },
+  {
+    "name": "zabiegi",
+    "path": "/zabiegi",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\zabiegi.vue",
+    "chunkName": "pages/zabiegi",
+    "_name": "_2fd8fc8a"
   },
   {
     "name": "blog-blog-classic",
