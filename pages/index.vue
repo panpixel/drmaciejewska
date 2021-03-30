@@ -44,7 +44,7 @@
 
         head() {
             return {
-                title: 'MaxCoach Education'
+                title: 'Medycyna Estetyczna - dr Joanna Maciejewska'
             }
         },
     };

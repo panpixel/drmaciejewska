@@ -2,8 +2,8 @@
     <div class="section">
         <div class="container">
             <div class="section-title text-center" data-aos="fade-up">
-                <span class="sub-title">Education for everyone</span>
-                <h2 class="title">Online <span>Coaching Lessons</span> For Remote Learning.</h2>
+                <span class="sub-title">Dbamy o urodę naszych klientów</span>
+                <h2 class="title">Online <span>Medycyna Estetyczna</span> dla wymagających.</h2>
             </div>
 
             <div class="row row-cols-xl-4 row-cols-sm-2 row-cols-1 no-gutters">

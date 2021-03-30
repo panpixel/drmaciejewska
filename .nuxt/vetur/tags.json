@@ -1,0 +1,752 @@
+{
+  "AboutApp": {
+    "description": "Auto imported from components/AboutApp.vue"
+  },
+  "LazyAboutApp": {
+    "description": "Auto imported from components/AboutApp.vue"
+  },
+  "AboutCooking": {
+    "description": "Auto imported from components/AboutCooking.vue"
+  },
+  "LazyAboutCooking": {
+    "description": "Auto imported from components/AboutCooking.vue"
+  },
+  "AboutUsOne": {
+    "description": "Auto imported from components/AboutUsOne.vue"
+  },
+  "LazyAboutUsOne": {
+    "description": "Auto imported from components/AboutUsOne.vue"
+  },
+  "AboutVideoOne": {
+    "description": "Auto imported from components/AboutVideoOne.vue"
+  },
+  "LazyAboutVideoOne": {
+    "description": "Auto imported from components/AboutVideoOne.vue"
+  },
+  "AccordionStyleOne": {
+    "description": "Auto imported from components/AccordionStyleOne.vue"
+  },
+  "LazyAccordionStyleOne": {
+    "description": "Auto imported from components/AccordionStyleOne.vue"
+  },
+  "AccordionStyleTwo": {
+    "description": "Auto imported from components/AccordionStyleTwo.vue"
+  },
+  "LazyAccordionStyleTwo": {
+    "description": "Auto imported from components/AccordionStyleTwo.vue"
+  },
+  "BlogPostCaptionBottom": {
+    "description": "Auto imported from components/BlogPostCaptionBottom.vue"
+  },
+  "LazyBlogPostCaptionBottom": {
+    "description": "Auto imported from components/BlogPostCaptionBottom.vue"
+  },
+  "BlogSidebar": {
+    "description": "Auto imported from components/BlogSidebar.vue"
+  },
+  "LazyBlogSidebar": {
+    "description": "Auto imported from components/BlogSidebar.vue"
+  },
+  "BlogStyleFive": {
+    "description": "Auto imported from components/BlogStyleFive.vue"
+  },
+  "LazyBlogStyleFive": {
+    "description": "Auto imported from components/BlogStyleFive.vue"
+  },
+  "BlogStyleFour": {
+    "description": "Auto imported from components/BlogStyleFour.vue"
+  },
+  "LazyBlogStyleFour": {
+    "description": "Auto imported from components/BlogStyleFour.vue"
+  },
+  "BlogStyleOne": {
+    "description": "Auto imported from components/BlogStyleOne.vue"
+  },
+  "LazyBlogStyleOne": {
+    "description": "Auto imported from components/BlogStyleOne.vue"
+  },
+  "BlogStyleThree": {
+    "description": "Auto imported from components/BlogStyleThree.vue"
+  },
+  "LazyBlogStyleThree": {
+    "description": "Auto imported from components/BlogStyleThree.vue"
+  },
+  "BlogStyleTwo": {
+    "description": "Auto imported from components/BlogStyleTwo.vue"
+  },
+  "LazyBlogStyleTwo": {
+    "description": "Auto imported from components/BlogStyleTwo.vue"
+  },
+  "BrandLogoCarousel": {
+    "description": "Auto imported from components/BrandLogoCarousel.vue"
+  },
+  "LazyBrandLogoCarousel": {
+    "description": "Auto imported from components/BrandLogoCarousel.vue"
+  },
+  "BrandLogoCarouselThree": {
+    "description": "Auto imported from components/BrandLogoCarouselThree.vue"
+  },
+  "LazyBrandLogoCarouselThree": {
+    "description": "Auto imported from components/BrandLogoCarouselThree.vue"
+  },
+  "BrandLogoCarouselTwo": {
+    "description": "Auto imported from components/BrandLogoCarouselTwo.vue"
+  },
+  "LazyBrandLogoCarouselTwo": {
+    "description": "Auto imported from components/BrandLogoCarouselTwo.vue"
+  },
+  "CallToActionFour": {
+    "description": "Auto imported from components/CallToActionFour.vue"
+  },
+  "LazyCallToActionFour": {
+    "description": "Auto imported from components/CallToActionFour.vue"
+  },
+  "CallToActionOne": {
+    "description": "Auto imported from components/CallToActionOne.vue"
+  },
+  "LazyCallToActionOne": {
+    "description": "Auto imported from components/CallToActionOne.vue"
+  },
+  "CallToActionThree": {
+    "description": "Auto imported from components/CallToActionThree.vue"
+  },
+  "LazyCallToActionThree": {
+    "description": "Auto imported from components/CallToActionThree.vue"
+  },
+  "CallToActionTwo": {
+    "description": "Auto imported from components/CallToActionTwo.vue"
+  },
+  "LazyCallToActionTwo": {
+    "description": "Auto imported from components/CallToActionTwo.vue"
+  },
+  "ContactForm": {
+    "description": "Auto imported from components/ContactForm.vue"
+  },
+  "LazyContactForm": {
+    "description": "Auto imported from components/ContactForm.vue"
+  },
+  "CookingFundamentals": {
+    "description": "Auto imported from components/CookingFundamentals.vue"
+  },
+  "LazyCookingFundamentals": {
+    "description": "Auto imported from components/CookingFundamentals.vue"
+  },
+  "CounterUpFive": {
+    "description": "Auto imported from components/CounterUpFive.vue"
+  },
+  "LazyCounterUpFive": {
+    "description": "Auto imported from components/CounterUpFive.vue"
+  },
+  "CounterUpFour": {
+    "description": "Auto imported from components/CounterUpFour.vue"
+  },
+  "LazyCounterUpFour": {
+    "description": "Auto imported from components/CounterUpFour.vue"
+  },
+  "CounterupOne": {
+    "description": "Auto imported from components/CounterupOne.vue"
+  },
+  "LazyCounterupOne": {
+    "description": "Auto imported from components/CounterupOne.vue"
+  },
+  "CounterUpThree": {
+    "description": "Auto imported from components/CounterUpThree.vue"
+  },
+  "LazyCounterUpThree": {
+    "description": "Auto imported from components/CounterUpThree.vue"
+  },
+  "CounterupTwo": {
+    "description": "Auto imported from components/CounterupTwo.vue"
+  },
+  "LazyCounterupTwo": {
+    "description": "Auto imported from components/CounterupTwo.vue"
+  },
+  "CounterupWithTestimonial": {
+    "description": "Auto imported from components/CounterupWithTestimonial.vue"
+  },
+  "LazyCounterupWithTestimonial": {
+    "description": "Auto imported from components/CounterupWithTestimonial.vue"
+  },
+  "CourseDetailsSidebar": {
+    "description": "Auto imported from components/CourseDetailsSidebar.vue"
+  },
+  "LazyCourseDetailsSidebar": {
+    "description": "Auto imported from components/CourseDetailsSidebar.vue"
+  },
+  "CourseDetailsTab": {
+    "description": "Auto imported from components/CourseDetailsTab.vue"
+  },
+  "LazyCourseDetailsTab": {
+    "description": "Auto imported from components/CourseDetailsTab.vue"
+  },
+  "CourseInstructor": {
+    "description": "Auto imported from components/CourseInstructor.vue"
+  },
+  "LazyCourseInstructor": {
+    "description": "Auto imported from components/CourseInstructor.vue"
+  },
+  "CourseItem": {
+    "description": "Auto imported from components/CourseItem.vue"
+  },
+  "LazyCourseItem": {
+    "description": "Auto imported from components/CourseItem.vue"
+  },
+  "CourseItemStyleThree": {
+    "description": "Auto imported from components/CourseItemStyleThree.vue"
+  },
+  "LazyCourseItemStyleThree": {
+    "description": "Auto imported from components/CourseItemStyleThree.vue"
+  },
+  "CourseOne": {
+    "description": "Auto imported from components/CourseOne.vue"
+  },
+  "LazyCourseOne": {
+    "description": "Auto imported from components/CourseOne.vue"
+  },
+  "CourseStyleThree": {
+    "description": "Auto imported from components/CourseStyleThree.vue"
+  },
+  "LazyCourseStyleThree": {
+    "description": "Auto imported from components/CourseStyleThree.vue"
+  },
+  "CourseStyleTwo": {
+    "description": "Auto imported from components/CourseStyleTwo.vue"
+  },
+  "LazyCourseStyleTwo": {
+    "description": "Auto imported from components/CourseStyleTwo.vue"
+  },
+  "CtaStyleOne": {
+    "description": "Auto imported from components/CtaStyleOne.vue"
+  },
+  "LazyCtaStyleOne": {
+    "description": "Auto imported from components/CtaStyleOne.vue"
+  },
+  "CurrentSignatureCourse": {
+    "description": "Auto imported from components/CurrentSignatureCourse.vue"
+  },
+  "LazyCurrentSignatureCourse": {
+    "description": "Auto imported from components/CurrentSignatureCourse.vue"
+  },
+  "EventItem": {
+    "description": "Auto imported from components/EventItem.vue"
+  },
+  "LazyEventItem": {
+    "description": "Auto imported from components/EventItem.vue"
+  },
+  "EventItemGridStyle": {
+    "description": "Auto imported from components/EventItemGridStyle.vue"
+  },
+  "LazyEventItemGridStyle": {
+    "description": "Auto imported from components/EventItemGridStyle.vue"
+  },
+  "EventStyleTwo": {
+    "description": "Auto imported from components/EventStyleTwo.vue"
+  },
+  "LazyEventStyleTwo": {
+    "description": "Auto imported from components/EventStyleTwo.vue"
+  },
+  "FaqWithAccordion": {
+    "description": "Auto imported from components/FaqWithAccordion.vue"
+  },
+  "LazyFaqWithAccordion": {
+    "description": "Auto imported from components/FaqWithAccordion.vue"
+  },
+  "FaqWithVideo": {
+    "description": "Auto imported from components/FaqWithVideo.vue"
+  },
+  "LazyFaqWithVideo": {
+    "description": "Auto imported from components/FaqWithVideo.vue"
+  },
+  "FeaturedOnlineCourses": {
+    "description": "Auto imported from components/FeaturedOnlineCourses.vue"
+  },
+  "LazyFeaturedOnlineCourses": {
+    "description": "Auto imported from components/FeaturedOnlineCourses.vue"
+  },
+  "FeaturesLifeStyle": {
+    "description": "Auto imported from components/FeaturesLifeStyle.vue"
+  },
+  "LazyFeaturesLifeStyle": {
+    "description": "Auto imported from components/FeaturesLifeStyle.vue"
+  },
+  "FeatureStyleOne": {
+    "description": "Auto imported from components/FeatureStyleOne.vue"
+  },
+  "LazyFeatureStyleOne": {
+    "description": "Auto imported from components/FeatureStyleOne.vue"
+  },
+  "FeatureStyleTwo": {
+    "description": "Auto imported from components/FeatureStyleTwo.vue"
+  },
+  "LazyFeatureStyleTwo": {
+    "description": "Auto imported from components/FeatureStyleTwo.vue"
+  },
+  "FooterStyleOne": {
+    "description": "Auto imported from components/FooterStyleOne.vue"
+  },
+  "LazyFooterStyleOne": {
+    "description": "Auto imported from components/FooterStyleOne.vue"
+  },
+  "GoogleMap": {
+    "description": "Auto imported from components/GoogleMap.vue"
+  },
+  "LazyGoogleMap": {
+    "description": "Auto imported from components/GoogleMap.vue"
+  },
+  "Gradation": {
+    "description": "Auto imported from components/Gradation.vue"
+  },
+  "LazyGradation": {
+    "description": "Auto imported from components/Gradation.vue"
+  },
+  "GymOnlineCourse": {
+    "description": "Auto imported from components/GymOnlineCourse.vue"
+  },
+  "LazyGymOnlineCourse": {
+    "description": "Auto imported from components/GymOnlineCourse.vue"
+  },
+  "HeaderStyleLogoCenter": {
+    "description": "Auto imported from components/HeaderStyleLogoCenter.vue"
+  },
+  "LazyHeaderStyleLogoCenter": {
+    "description": "Auto imported from components/HeaderStyleLogoCenter.vue"
+  },
+  "HeaderStyleTwo": {
+    "description": "Auto imported from components/HeaderStyleTwo.vue"
+  },
+  "LazyHeaderStyleTwo": {
+    "description": "Auto imported from components/HeaderStyleTwo.vue"
+  },
+  "HeaderStyleWithSocial": {
+    "description": "Auto imported from components/HeaderStyleWithSocial.vue"
+  },
+  "LazyHeaderStyleWithSocial": {
+    "description": "Auto imported from components/HeaderStyleWithSocial.vue"
+  },
+  "HeaderTop": {
+    "description": "Auto imported from components/HeaderTop.vue"
+  },
+  "LazyHeaderTop": {
+    "description": "Auto imported from components/HeaderTop.vue"
+  },
+  "HeaderTransparent": {
+    "description": "Auto imported from components/HeaderTransparent.vue"
+  },
+  "LazyHeaderTransparent": {
+    "description": "Auto imported from components/HeaderTransparent.vue"
+  },
+  "HeaderTransparentTwo": {
+    "description": "Auto imported from components/HeaderTransparentTwo.vue"
+  },
+  "LazyHeaderTransparentTwo": {
+    "description": "Auto imported from components/HeaderTransparentTwo.vue"
+  },
+  "HeroBanner": {
+    "description": "Auto imported from components/HeroBanner.vue"
+  },
+  "LazyHeroBanner": {
+    "description": "Auto imported from components/HeroBanner.vue"
+  },
+  "HeroBusiness": {
+    "description": "Auto imported from components/HeroBusiness.vue"
+  },
+  "LazyHeroBusiness": {
+    "description": "Auto imported from components/HeroBusiness.vue"
+  },
+  "HeroCoursePortal": {
+    "description": "Auto imported from components/HeroCoursePortal.vue"
+  },
+  "LazyHeroCoursePortal": {
+    "description": "Auto imported from components/HeroCoursePortal.vue"
+  },
+  "HeroDistantLearning": {
+    "description": "Auto imported from components/HeroDistantLearning.vue"
+  },
+  "LazyHeroDistantLearning": {
+    "description": "Auto imported from components/HeroDistantLearning.vue"
+  },
+  "HeroGymCoaching": {
+    "description": "Auto imported from components/HeroGymCoaching.vue"
+  },
+  "LazyHeroGymCoaching": {
+    "description": "Auto imported from components/HeroGymCoaching.vue"
+  },
+  "HeroHealthCoaching": {
+    "description": "Auto imported from components/HeroHealthCoaching.vue"
+  },
+  "LazyHeroHealthCoaching": {
+    "description": "Auto imported from components/HeroHealthCoaching.vue"
+  },
+  "HeroKitchenCoach": {
+    "description": "Auto imported from components/HeroKitchenCoach.vue"
+  },
+  "LazyHeroKitchenCoach": {
+    "description": "Auto imported from components/HeroKitchenCoach.vue"
+  },
+  "HeroModernSchooling": {
+    "description": "Auto imported from components/HeroModernSchooling.vue"
+  },
+  "LazyHeroModernSchooling": {
+    "description": "Auto imported from components/HeroModernSchooling.vue"
+  },
+  "HeroMultimediaPedagogy": {
+    "description": "Auto imported from components/HeroMultimediaPedagogy.vue"
+  },
+  "LazyHeroMultimediaPedagogy": {
+    "description": "Auto imported from components/HeroMultimediaPedagogy.vue"
+  },
+  "HeroRemoteTraining": {
+    "description": "Auto imported from components/HeroRemoteTraining.vue"
+  },
+  "LazyHeroRemoteTraining": {
+    "description": "Auto imported from components/HeroRemoteTraining.vue"
+  },
+  "ImageBox": {
+    "description": "Auto imported from components/ImageBox.vue"
+  },
+  "LazyImageBox": {
+    "description": "Auto imported from components/ImageBox.vue"
+  },
+  "ImageContentBox": {
+    "description": "Auto imported from components/ImageContentBox.vue"
+  },
+  "LazyImageContentBox": {
+    "description": "Auto imported from components/ImageContentBox.vue"
+  },
+  "ImageContentBoxTwo": {
+    "description": "Auto imported from components/ImageContentBoxTwo.vue"
+  },
+  "LazyImageContentBoxTwo": {
+    "description": "Auto imported from components/ImageContentBoxTwo.vue"
+  },
+  "InstagramPost": {
+    "description": "Auto imported from components/InstagramPost.vue"
+  },
+  "LazyInstagramPost": {
+    "description": "Auto imported from components/InstagramPost.vue"
+  },
+  "InstagramStyleOne": {
+    "description": "Auto imported from components/InstagramStyleOne.vue"
+  },
+  "LazyInstagramStyleOne": {
+    "description": "Auto imported from components/InstagramStyleOne.vue"
+  },
+  "InstagramStyleTwo": {
+    "description": "Auto imported from components/InstagramStyleTwo.vue"
+  },
+  "LazyInstagramStyleTwo": {
+    "description": "Auto imported from components/InstagramStyleTwo.vue"
+  },
+  "InstructorRegisterForm": {
+    "description": "Auto imported from components/InstructorRegisterForm.vue"
+  },
+  "LazyInstructorRegisterForm": {
+    "description": "Auto imported from components/InstructorRegisterForm.vue"
+  },
+  "KitchenOnlineCourse": {
+    "description": "Auto imported from components/KitchenOnlineCourse.vue"
+  },
+  "LazyKitchenOnlineCourse": {
+    "description": "Auto imported from components/KitchenOnlineCourse.vue"
+  },
+  "LatestOnlineCourses": {
+    "description": "Auto imported from components/LatestOnlineCourses.vue"
+  },
+  "LazyLatestOnlineCourses": {
+    "description": "Auto imported from components/LatestOnlineCourses.vue"
+  },
+  "LearnGalleryItem": {
+    "description": "Auto imported from components/LearnGalleryItem.vue"
+  },
+  "LazyLearnGalleryItem": {
+    "description": "Auto imported from components/LearnGalleryItem.vue"
+  },
+  "LearnGym": {
+    "description": "Auto imported from components/LearnGym.vue"
+  },
+  "LazyLearnGym": {
+    "description": "Auto imported from components/LearnGym.vue"
+  },
+  "LeranerGallery": {
+    "description": "Auto imported from components/LeranerGallery.vue"
+  },
+  "LazyLeranerGallery": {
+    "description": "Auto imported from components/LeranerGallery.vue"
+  },
+  "MembershipLevelTable": {
+    "description": "Auto imported from components/MembershipLevelTable.vue"
+  },
+  "LazyMembershipLevelTable": {
+    "description": "Auto imported from components/MembershipLevelTable.vue"
+  },
+  "MobileNavigation": {
+    "description": "Auto imported from components/MobileNavigation.vue"
+  },
+  "LazyMobileNavigation": {
+    "description": "Auto imported from components/MobileNavigation.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "LazyNavigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "NewsletterFour": {
+    "description": "Auto imported from components/NewsletterFour.vue"
+  },
+  "LazyNewsletterFour": {
+    "description": "Auto imported from components/NewsletterFour.vue"
+  },
+  "NewsletterOne": {
+    "description": "Auto imported from components/NewsletterOne.vue"
+  },
+  "LazyNewsletterOne": {
+    "description": "Auto imported from components/NewsletterOne.vue"
+  },
+  "NewsletterThree": {
+    "description": "Auto imported from components/NewsletterThree.vue"
+  },
+  "LazyNewsletterThree": {
+    "description": "Auto imported from components/NewsletterThree.vue"
+  },
+  "NewsletterTwo": {
+    "description": "Auto imported from components/NewsletterTwo.vue"
+  },
+  "LazyNewsletterTwo": {
+    "description": "Auto imported from components/NewsletterTwo.vue"
+  },
+  "OffCanvasMobileMenu": {
+    "description": "Auto imported from components/OffCanvasMobileMenu.vue"
+  },
+  "LazyOffCanvasMobileMenu": {
+    "description": "Auto imported from components/OffCanvasMobileMenu.vue"
+  },
+  "OnlineCoachingLessons": {
+    "description": "Auto imported from components/OnlineCoachingLessons.vue"
+  },
+  "LazyOnlineCoachingLessons": {
+    "description": "Auto imported from components/OnlineCoachingLessons.vue"
+  },
+  "PageBannerOne": {
+    "description": "Auto imported from components/PageBannerOne.vue"
+  },
+  "LazyPageBannerOne": {
+    "description": "Auto imported from components/PageBannerOne.vue"
+  },
+  "RegisterContentBox": {
+    "description": "Auto imported from components/RegisterContentBox.vue"
+  },
+  "LazyRegisterContentBox": {
+    "description": "Auto imported from components/RegisterContentBox.vue"
+  },
+  "RelatedCourse": {
+    "description": "Auto imported from components/RelatedCourse.vue"
+  },
+  "LazyRelatedCourse": {
+    "description": "Auto imported from components/RelatedCourse.vue"
+  },
+  "SearchPopup": {
+    "description": "Auto imported from components/SearchPopup.vue"
+  },
+  "LazySearchPopup": {
+    "description": "Auto imported from components/SearchPopup.vue"
+  },
+  "SearchPopupFullscreen": {
+    "description": "Auto imported from components/SearchPopupFullscreen.vue"
+  },
+  "LazySearchPopupFullscreen": {
+    "description": "Auto imported from components/SearchPopupFullscreen.vue"
+  },
+  "SectionHeader": {
+    "description": "Auto imported from components/SectionHeader.vue"
+  },
+  "LazySectionHeader": {
+    "description": "Auto imported from components/SectionHeader.vue"
+  },
+  "ServiceImage": {
+    "description": "Auto imported from components/ServiceImage.vue"
+  },
+  "LazyServiceImage": {
+    "description": "Auto imported from components/ServiceImage.vue"
+  },
+  "ServiceOne": {
+    "description": "Auto imported from components/ServiceOne.vue"
+  },
+  "LazyServiceOne": {
+    "description": "Auto imported from components/ServiceOne.vue"
+  },
+  "ServiceStyleThree": {
+    "description": "Auto imported from components/ServiceStyleThree.vue"
+  },
+  "LazyServiceStyleThree": {
+    "description": "Auto imported from components/ServiceStyleThree.vue"
+  },
+  "ServiceStyleTwo": {
+    "description": "Auto imported from components/ServiceStyleTwo.vue"
+  },
+  "LazyServiceStyleTwo": {
+    "description": "Auto imported from components/ServiceStyleTwo.vue"
+  },
+  "ShapeWithAnimation": {
+    "description": "Auto imported from components/ShapeWithAnimation.vue"
+  },
+  "LazyShapeWithAnimation": {
+    "description": "Auto imported from components/ShapeWithAnimation.vue"
+  },
+  "SignatureCourseCarousel": {
+    "description": "Auto imported from components/SignatureCourseCarousel.vue"
+  },
+  "LazySignatureCourseCarousel": {
+    "description": "Auto imported from components/SignatureCourseCarousel.vue"
+  },
+  "SignatureCourseCarouselTwo": {
+    "description": "Auto imported from components/SignatureCourseCarouselTwo.vue"
+  },
+  "LazySignatureCourseCarouselTwo": {
+    "description": "Auto imported from components/SignatureCourseCarouselTwo.vue"
+  },
+  "SignatureCourses": {
+    "description": "Auto imported from components/SignatureCourses.vue"
+  },
+  "LazySignatureCourses": {
+    "description": "Auto imported from components/SignatureCourses.vue"
+  },
+  "SignatureCoursesTwo": {
+    "description": "Auto imported from components/SignatureCoursesTwo.vue"
+  },
+  "LazySignatureCoursesTwo": {
+    "description": "Auto imported from components/SignatureCoursesTwo.vue"
+  },
+  "SmartTutoringProgram": {
+    "description": "Auto imported from components/SmartTutoringProgram.vue"
+  },
+  "LazySmartTutoringProgram": {
+    "description": "Auto imported from components/SmartTutoringProgram.vue"
+  },
+  "TeacherQuote": {
+    "description": "Auto imported from components/TeacherQuote.vue"
+  },
+  "LazyTeacherQuote": {
+    "description": "Auto imported from components/TeacherQuote.vue"
+  },
+  "TeamMemberItem": {
+    "description": "Auto imported from components/TeamMemberItem.vue"
+  },
+  "LazyTeamMemberItem": {
+    "description": "Auto imported from components/TeamMemberItem.vue"
+  },
+  "TeamStyleOne": {
+    "description": "Auto imported from components/TeamStyleOne.vue"
+  },
+  "LazyTeamStyleOne": {
+    "description": "Auto imported from components/TeamStyleOne.vue"
+  },
+  "TeamStyleTwo": {
+    "description": "Auto imported from components/TeamStyleTwo.vue"
+  },
+  "LazyTeamStyleTwo": {
+    "description": "Auto imported from components/TeamStyleTwo.vue"
+  },
+  "TestimonialStyleEight": {
+    "description": "Auto imported from components/TestimonialStyleEight.vue"
+  },
+  "LazyTestimonialStyleEight": {
+    "description": "Auto imported from components/TestimonialStyleEight.vue"
+  },
+  "TestimonialStyleEleven": {
+    "description": "Auto imported from components/TestimonialStyleEleven.vue"
+  },
+  "LazyTestimonialStyleEleven": {
+    "description": "Auto imported from components/TestimonialStyleEleven.vue"
+  },
+  "TestimonialStyleFive": {
+    "description": "Auto imported from components/TestimonialStyleFive.vue"
+  },
+  "LazyTestimonialStyleFive": {
+    "description": "Auto imported from components/TestimonialStyleFive.vue"
+  },
+  "TestimonialStyleFour": {
+    "description": "Auto imported from components/TestimonialStyleFour.vue"
+  },
+  "LazyTestimonialStyleFour": {
+    "description": "Auto imported from components/TestimonialStyleFour.vue"
+  },
+  "TestimonialStyleNine": {
+    "description": "Auto imported from components/TestimonialStyleNine.vue"
+  },
+  "LazyTestimonialStyleNine": {
+    "description": "Auto imported from components/TestimonialStyleNine.vue"
+  },
+  "TestimonialStyleSeven": {
+    "description": "Auto imported from components/TestimonialStyleSeven.vue"
+  },
+  "LazyTestimonialStyleSeven": {
+    "description": "Auto imported from components/TestimonialStyleSeven.vue"
+  },
+  "TestimonialStyleSix": {
+    "description": "Auto imported from components/TestimonialStyleSix.vue"
+  },
+  "LazyTestimonialStyleSix": {
+    "description": "Auto imported from components/TestimonialStyleSix.vue"
+  },
+  "TestimonialStyleTen": {
+    "description": "Auto imported from components/TestimonialStyleTen.vue"
+  },
+  "LazyTestimonialStyleTen": {
+    "description": "Auto imported from components/TestimonialStyleTen.vue"
+  },
+  "TestimonialStyleThree": {
+    "description": "Auto imported from components/TestimonialStyleThree.vue"
+  },
+  "LazyTestimonialStyleThree": {
+    "description": "Auto imported from components/TestimonialStyleThree.vue"
+  },
+  "TestimonialStyleTwo": {
+    "description": "Auto imported from components/TestimonialStyleTwo.vue"
+  },
+  "LazyTestimonialStyleTwo": {
+    "description": "Auto imported from components/TestimonialStyleTwo.vue"
+  },
+  "UpcomingEvents": {
+    "description": "Auto imported from components/UpcomingEvents.vue"
+  },
+  "LazyUpcomingEvents": {
+    "description": "Auto imported from components/UpcomingEvents.vue"
+  },
+  "VideoAbout": {
+    "description": "Auto imported from components/VideoAbout.vue"
+  },
+  "LazyVideoAbout": {
+    "description": "Auto imported from components/VideoAbout.vue"
+  },
+  "VideoCompanionship": {
+    "description": "Auto imported from components/VideoCompanionship.vue"
+  },
+  "LazyVideoCompanionship": {
+    "description": "Auto imported from components/VideoCompanionship.vue"
+  },
+  "VideoPopUp": {
+    "description": "Auto imported from components/VideoPopUp.vue"
+  },
+  "LazyVideoPopUp": {
+    "description": "Auto imported from components/VideoPopUp.vue"
+  },
+  "VideoStyleOne": {
+    "description": "Auto imported from components/VideoStyleOne.vue"
+  },
+  "LazyVideoStyleOne": {
+    "description": "Auto imported from components/VideoStyleOne.vue"
+  },
+  "VideoStyleTwo": {
+    "description": "Auto imported from components/VideoStyleTwo.vue"
+  },
+  "LazyVideoStyleTwo": {
+    "description": "Auto imported from components/VideoStyleTwo.vue"
+  },
+  "ZoomMeetingPost": {
+    "description": "Auto imported from components/ZoomMeetingPost.vue"
+  },
+  "LazyZoomMeetingPost": {
+    "description": "Auto imported from components/ZoomMeetingPost.vue"
+  }
+}

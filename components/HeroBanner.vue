@@ -31,8 +31,7 @@
                             </div>
                             <div class="info">
                                 <span class="price">Free</span>
-                                <span class="date">Sep 23, 2020</span>
-                                <h3 class="title">
+                               <h3 class="title">
                                     <n-link to="/">Customer-centric Info-Tech Strategies</n-link>
                                 </h3>
                                 <div class="desc">
