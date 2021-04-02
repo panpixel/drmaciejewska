@@ -2,7 +2,7 @@
     <div class="related-courses-section section-padding">
         <div class="container">
             <div class="section-title text-center mb-35" data-aos="fade-up">
-                <h3 class="title">Related Courses​</h3>
+                <h3 class="title">Powiązane zabiegi​</h3>
             </div>
 
             <!-- Courses Wrapper Start -->

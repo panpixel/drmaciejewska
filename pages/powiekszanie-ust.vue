@@ -12,14 +12,14 @@
                         <li>
                             <n-link to="/">Home</n-link>
                         </li>
-                        <li class="current">Course Details</li>
+                        <li class="current">Powiększanie ust</li>
                     </ul>
                 </div>
             </div>
 
             <div class="page-title">
                 <div class="container">
-                    <h1 class="title">Course Details</h1>
+                    <h1 class="title">Powiększanie ust</h1>
                 </div>
             </div>
         </div>

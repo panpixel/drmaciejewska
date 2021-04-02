@@ -10,16 +10,7 @@
             <h3 class="title">
                 <n-link to="/">{{ course.title }}</n-link>
             </h3>
-            <ul class="meta">
-                <li>
-                    <i class="far fa-file-alt"></i>
-                    {{ course.lessons }}
-                </li>
-                <li>
-                    <i class="far fa-user-alt"></i>
-                    {{ course.students }}
-                </li>
-            </ul>
+           
         </div>
     </div>
 </template>

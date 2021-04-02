@@ -7,30 +7,57 @@
                     <!-- Course Details Wrapper Start -->
                     <div class="course-details-wrapper">
                         <b-tabs pills card>
-                            <b-tab title="Overview" active>
+                            <b-tab title="Opis zabiegu" active>
                                 <div class="course-overview">
-                                    <h3 class="title">Course Description</h3>
-                                    <p>Now more than ever, corporations are investing heavily in IT. The quality of these investments affects the daily work of millions.</p>
-                                    <p>Yet it’s not uncommon to see industry surveys where the failure rates for IT projects is over 50%. It’s possible to do better and it’s possible to do so consistently. Use the Business Model Canvas to focus your company strategy and facilitate buy-in from stakeholders.</p>
+                                    <h3 class="title">Pełne i wydatne usta</h3>
+                                    <p>Pełne i wydatne usta o regularnym konturze to marzenie wielu kobiet. Obecnie jedną z najpopularniejszych metod poprawiania wyglądu stało się powiększanie ust za pomocą kwasu hialuronowego. 
+                                    Zabieg ten jest polecany kobietom, które chcą uwydatnić zbyt mało wykształconą wargę górną lub dolną. Kwas hialuronowy właściwie podany podkreśla odpowiedni kontur warg. 
+                                    Przychodzi z pomocą kobietom które dostrzegają zmiany wynikające z postępującego procesu starzenia się ust związanego z odwodnieniem czerwieni wargowej. 
+                                    Powiększanie ust, korekta bądź nawilżenie wykonywane jest u pacjentów w każdym wieku. Z zabiegu korzystają zarówno kobiety jak i mężczyźni.</p>
 
-                                    <div class="overview-course-video">
-                                        <iframe title="Drive Digital Transformation With Platform Strategies | Info-Tech Analyst Perspective" src="https://www.youtube.com/embed/m-X1ExlQ9uE?feature=oembed"></iframe>
-                                    </div>
+                                    <p>Kwas hialuronowy to substancja naturalna, która pozwala na powiększenie lub tylko nieznaczne uwydatnienie ust, poprawienie konturu, nawilżenie, usunięcie zmarszczek wokół nich. 
+                                    W rezultacie uzyskujemy efekt odmłodnienia. Kwas hialuronowy stosowany do powiększania ust jest substancją syntetyczną całkowicie przyswajalną przez organizm, nie powodując 
+                                    efektów ubocznych a rezultaty jego działania są natychmiastowe. Przed zabiegiem odbywa się konsultacja z lekarzem celem poznania pacjenta i dobrania odpowiedniej gęstości i rodzaju preparatu. 
+                                    Dobrany preparat wstrzykuje się cienką igłą w odpowiednie miejsca warg, w taki sposób, aby uzyskać wymarzony efekt powiększenia i wymodelowania ust.</p>
+                                  
+                                  <h3 class="title">Powiększenie ust – czy zabieg jest bolesny?</h3>
+                                 <p>Ze względu na duże uwrażliwienie okolicy ust oraz w celu poprawienia komfortu pacjentki stosowane jest znieczulenie miejscowe przy pomocy kremu znieczulającego (ok. 20 min przed zabiegiem). 
+                                 Cała procedura trwa około 30 minut. </p>
 
-                                    <p>In this two-week course, we’ll step through major challenges within corporate IT and how to address them with the disciplined use of design thinking, Lean Startup, and agile as a team framework.</p>
+                                  <h3 class="title">Powiększenie ust – wskazania</h3>
+                                  <ul class="maxcoach-list">
+                                  <li class="item" v-for="list in lists" :key="list.id">
+                                  <div class="icon">
+                                  <i class="fas fa-check"></i>
+                                  </div>
+                                 <div class="text">{{ list }}</div>
+                                 </li>
+                                 </ul>
+                                
+                                 <h3 class="title">Zalecenia przedzabiegowe</h3>
+                                  <p>Zabieg modelowania ust nie wymaga żadnych wcześniejszych przygotowań. Na około 3-4 dni przed zabiegiem nie należy zażywać aspiryny oraz stosować leków przeciwzapalnych. 
+                                    W dniu zabiegu zaleca się unikać sauny, solarium, promieni słonecznych oraz intensywnego wysiłku fizycznego.</p>
+                                 
+                                 <h3 class="title">Zalecenia pozabiegowe</h3>
+                                  <p>Bezpośrednio po zabiegu należy unikać dotykania i masowania miejsc iniekcji oraz ograniczyć ekspresję wokół ust. 
+                                  Okolicę poddaną zabiegowi należy zachować w czystości i sterylności przez 24 godziny. Na około 3-4 dni po zabiegu zaleca się także ograniczenie ekspozycji na promienie słoneczne oraz ciepło (solarium, sauna). 
+                                  Przez 2 tygodnie po wykonanym zabiegu należy stosować krem z wysokim filtrem przeciwsłonecznym.</p>
 
-                                    <p>Translate your work on the Canvas to specific charters in IT. Rapidly prototype strategically-aligned processes for implementation within your IT infrastructure. How do you define a customer-centric strategy you can actually execute? To do strategic IT, you’ve got to have a strategy! Ideally, you need one that’s easy to understand and use as a clear basis for action.</p>
-
-                                    <p>That’s what you’ll learn in this course.</p>
-                                    <h3 class="title">A Short Description</h3>
-                                    <p>A customer-centric way of doing business is a way that provides a positive customer experience before and after the sale in order to drive repeat business, enhance customer loyalty and improve business growth.</p>
-
-                                    <p>But, a customer-centric company is more than a company that offers good service. Both Amazon and Zappos are prime examples of brands that are customer-centric and have spent years creating a culture around the customer and their needs. Their commitment to delivering customer value is genuine – In fact, Zappos is happy to fire employees if they do not fit within their customer-centric culture!</p>
-
-                                    <p>But, how important is being customer-centric? The good news is that’s becoming very important! Econsultancy recently asked what the most important characteristic is in order to establish a truly “digital-native” culture. The answer to that question and leading the responses with 58% was to be customer-centric. </p>
-
-                                    <p>Enroll in this course to find out.</p>
-                                </div>
+                                <h3 class="title">Powiększenie ust – przeciwwskazania</h3>
+                                  <ul class="maxcoach-list">
+                                  <li class="item" v-for="list in lists2" :key="list.id">
+                                  <div class="icon">
+                                  <i class="fas fa-check"></i>
+                                  </div>
+                                 <div class="text">{{ list }}</div>
+                                 </li>
+                                 </ul>
+                                
+                                <h3 class="title">Działania niepożądane</h3>
+                                  <p>Bezpośrednio po zabiegu mogą wystąpić reakcje typowe dla każdej iniekcji. Skóra wokół ust może być nabrzmiała, sina i zaczerwieniona. 
+                                  Może pojawić się krwiak. Objawy te ustępują zwykle samoistnie w ciągu kilku dni.</p>                          
+                                 
+                              </div>
                             </b-tab>
                             <b-tab title="Instructor">
                                 <CourseInstructor />
@@ -209,5 +236,27 @@
             CourseDetailsSidebar: () => import('@/components/CourseDetailsSidebar'),
             CourseInstructor: () => import('@/components/CourseInstructor'),
         },
+        data () {
+            return {
+                lists: [
+                    "małe, wąskie, asymetryczne usta",
+                    "zanik barwnika",
+                    "wypełnienie zmarszczek wokół ust (tzw. „zmarszczek palacza”)",
+                    "redukcja opadających kącików ust",
+                    "podkreślenie konturu ust",
+                    "nawilżenie ust",
+                ],
+                lists2: [
+                    "ciąża i okres karmienia piersią",
+                    "choroby autoimmunologiczne",
+                    "infekcje (trądzik, opryszczka)",
+                    "skłonność do blizn przerostowych",
+                    "nadwrażliwość na kwas hialuronowy",
+                    
+                ]
+            }
+        }
     };
+
+    
 </script>
