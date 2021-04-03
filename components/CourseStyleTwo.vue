@@ -3,8 +3,8 @@
         <div class="container">
             <!-- Section Title Start -->
             <div class="section-title-two text-center" data-aos="fade-up">
-                <span class="sub-title">Let’s Dream Big Together</span>
-                <h2 class="title fz-48">Explore How can I help you</h2>
+                <span class="sub-title">Zatrzymać proces starzenia, wyglądać pięknie, młodo i atrakcyjnie</span>
+                <h2 class="title fz-48">Polecane zabiegi medycyny estetycznej</h2>
             </div>
             <!-- Section Title End -->
 
@@ -19,7 +19,7 @@
                         </div>
                         <div class="info">
                             <div class="course-caption-main">
-                                <span class="price">{{ course.price }}</span>
+                                cena zabiegu: <span class="price">{{ course.price }}</span>
                                 <h3 class="title">
                                     <n-link to="/">
                                         {{ course.title }}
@@ -57,13 +57,13 @@
             return {
                 courses: [
                     {
-                        imgSrc: "/images/courses/385/course-1.jpg",
-                        alt: "Course Image",
-                        price: "$40.00",
-                        title: "Learning to Write as a Professional Author",
+                        imgSrc: "/images/zabiegi/bruksizm-medycyna-estetyczna-drmaciejewska.jpg",
+                        alt: "Bruksizm",
+                        price: "200 zł",
+                        title: "Bruksizm",
                         lessons: "20 Lessons",
                         students: "51 Students",
-                        desc: "The purpose of this course is to provide the advanced writing techniques commonly used for inspiring readers and…"
+                        desc: "Bruksizm to podświadome (mimowolne) zgrzytanie i zaciskanie zębów ..."
                     },
                     {
                         imgSrc: "/images/courses/385/course-2.jpg",

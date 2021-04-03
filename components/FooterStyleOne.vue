@@ -4,11 +4,11 @@
             <div class="row">
                 <div class="col-xl-6 col-md-5 max-mb-50">
                     <div class="footer-widget" :class="addClassName">
-                        <h4 class="footer-widget-title">Address</h4>
+                        <h4 class="footer-widget-title">Adres</h4>
                         <div class="footer-widget-content">
                             <div class="content">
-                                <p>Your address goes here</p>
-                                <p>0123456789 (9am - 5pm EST, Monday - Friday)</p>
+                                <p>Tysiąclecia 7, 41-303 Dąbrowa Górnicza</p>
+                                <p>0123456789 (9:00 - 17:00 Poniedziałek - Piątek)</p>
                                 <p>
                                     <a href="mailto:info@example.com">info@example.com</a>
                                 </p>
@@ -61,20 +61,15 @@
 
                 <div class="col-xl-3 col-md-3 col-sm-5 col-12 max-mb-50">
                     <div class="footer-widget" :class="addClassName">
-                        <h4 class="footer-widget-title">Information</h4>
+                        <h4 class="footer-widget-title">Informacje</h4>
                         <div class="footer-widget-content">
                             <ul>
+                             
                                 <li>
-                                    <n-link to="">Membership</n-link>
+                                    <n-link to="">Polityka prywatności</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="">Purchase guide</n-link>
-                                </li>
-                                <li>
-                                    <n-link to="">Privacy policy</n-link>
-                                </li>
-                                <li>
-                                    <n-link to="">Terms of service</n-link>
+                                    <n-link to="">Regulamin</n-link>
                                 </li>
                             </ul>
                         </div>
@@ -85,7 +80,7 @@
             <!-- Footer Copyright Start -->
             <div class="row max-mt-20">
                 <div class="col">
-                    <p class="copyright">&copy; {{ new Date().getFullYear() }} <b>Maxcoach</b> Made with <i class="fa fa-heart text-danger"></i> by <a href="https://hasthemes.com/" target="_blank"><b>HasThemes</b></a></p>
+                    <p class="copyright">&copy; {{ new Date().getFullYear() }} <b>drmaciejewska.pl</b> zaprojektowane z <i class="fa fa-heart text-danger"></i> <a href="https://panpixel.studio/" target="_blank"><b>Panpixel.Studio</b></a></p>
                 </div>
             </div>
             <!-- Footer Copyright End -->
