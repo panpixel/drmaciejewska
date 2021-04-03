@@ -5,21 +5,19 @@
                 <div class="col-lg-6 order-lg-1 order-2">
                     <div class="about-content mt-sm-50 mt-xs-50">
                         <span class="sub-title">Get to know about <strong>MaxCoach</strong></span>
-                        <h2 class="title">Learn about our <span>Work Culture</span> at MaxCoach</h2>
-                        <p>Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month.</p>
-                        <n-link to="" class="link link-lg"> 
-                            Have questions?​ <mark> Get Free Form <i class="far fa-long-arrow-right"></i></mark>
-                        </n-link>
+                        <h2 class="title">Czym zajmuje się <span>Medycyna Estetyczna?</span></h2>
+                        <p>Zapraszamy Państwa do naszej kliniki w Dąbrowie Górniczej. </p>
+                      
                     </div>
                 </div>
 
                 <div class="col-lg-6 order-lg-1 order-1">
                     <div class="about-image">
                         <div class="about-image-one">
-                            <img src="/images/about/about01/about1.jpg" alt="about-01">
+                            <img src="/images/about/about01/czym-zajmuje-sie-medycyna-estetyczna-drmaciejewska.jpg" alt="czym zajmuje się medycyna estetyczna?">
                         </div>
                         <div class="about-image-two">
-                            <img src="/images/about/about01/about2.jpg" alt="about-02">
+                            <img src="/images/about/about01/czym-zajmuje-sie-medycyna2-estetyczna-drmaciejewska.jpg" alt="czym zajmuje się medycyna estetyczna?">
                         </div>
 
                         <!-- Animation Shape Start -->

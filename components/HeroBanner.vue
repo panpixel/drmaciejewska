@@ -5,15 +5,12 @@
                 <!-- Intro One Content Start -->
                 <div class="col align-self-center max-mb-30">
                     <div class="intro1-content text-center text-md-left">
-                        <span class="sub-title">MaxCoach is the lifebuoy</span>
-                        <h2 class="title">In Mentoring <br>2B a Better You.</h2>
+                        <span class="sub-title">Poprawa wyglądu skóry</span>
+                        <h2 class="title">Medycyna estetyczna<br>Lepsza Ty.</h2>
                         <div class="desc">
-                            <p>The right mentoring relationship can be a powerful tool for professional growth. Bark up the right tree.</p>
+                            <p>Zabiegi medycyny estetycznej pozwalają zniwelować zmarszczki, usunąć blizny oraz pozbyć się innych defektów urody, które w sposób negatywny oddziałują na samopoczucie i samoocenę pacjenta. </p>
                         </div>
-                        <a class="btn btn-primary btn-hover-secondary" href="/images/sample.pdf" target="_blank">
-                            <i class="far fa-download mr-3"></i>
-                            Download free guide
-                        </a>
+                       
                     </div>
                 </div>
                 <!-- Intro One Content End -->
@@ -26,7 +23,7 @@
                         <div class="course-2">
                             <div class="thumbnail">
                                 <n-link to="/" class="image">
-                                    <img src="/images/courses/370/course-2.jpg" alt="Course Image">
+                                    <img src="/images/zabiegi/powiekszanie-ust-bg-drmaciejewska.jpg" alt="Powiększanie ust">
                                 </n-link>
                             </div>
                             <div class="info">

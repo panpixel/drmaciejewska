@@ -7,17 +7,15 @@
 
         <HeroBanner />
 
-        <OnlineCoachingLessons />
+         <AboutUsOne />
 
         <TeacherQuote />
 
-        <CounterupWithTestimonial />
+        <CounterupTwo />
 
-        <VideoStyleOne />
+        <AboutVideoOne />     
 
-        <CurrentSignatureCourse />
-
-        <BlogStyleOne />
+         <CourseStyleTwo />
 
         <BrandLogoCarousel />
 
@@ -32,12 +30,11 @@
             HeaderStyleTwo: () => import('@/components/HeaderStyleTwo'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             HeroBanner: () => import('@/components/HeroBanner'),
-            OnlineCoachingLessons: () => import('@/components/OnlineCoachingLessons'),
+             AboutUsOne: () => import('@/components/AboutUsOne'),           
             TeacherQuote: () => import('@/components/TeacherQuote'),
-            CounterupWithTestimonial: () => import('@/components/CounterupWithTestimonial'),
-            VideoStyleOne: () => import('@/components/VideoStyleOne'),
-            CurrentSignatureCourse: () => import('@/components/CurrentSignatureCourse'),
-            BlogStyleOne: () => import('@/components/BlogStyleOne'),
+            CounterupTwo: () => import('@/components/CounterupTwo'),
+            AboutVideoOne: () => import('@/components/AboutVideoOne'),           
+             CourseStyleTwo: () => import('@/components/CourseStyleTwo'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },

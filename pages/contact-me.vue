@@ -12,7 +12,7 @@
                         <li>
                             <n-link to="/">Home</n-link>
                         </li>
-                        <li class="current">Contact Me</li>
+                        <li class="current">Kontakt</li>
                     </ul>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     <div class="col-lg-4">
                         <div class="contact-title">
                             <span class="sub-title">Get excited already?</span>
-                            <h2 class="title">Reach me!</h2>
+                            <h2 class="title">Skontaktuj się z nami!</h2>
                         </div>
 
                         <div class="contact-info-wrap max-mb-n50">
@@ -34,8 +34,8 @@
                                     <i class="fal fa-map-marker-alt"></i>
                                 </div>
                                 <div class="info">
-                                    <h4 class="title"> Address</h4>
-                                    <span class="info-text"> Your address goes here</span>
+                                    <h4 class="title"> Adres</h4>
+                                    <span class="info-text"> Adres tutaj</span>
                                 </div>
                             </div>
                             <!-- Single Contact Info End -->
@@ -46,13 +46,13 @@
                                     <i class="fal fa-phone"></i>
                                 </div>
                                 <div class="info">
-                                    <h4 class="title">Contact</h4>
+                                    <h4 class="title">Kontakt</h4>
                                     <span class="info-text"> 
                                         Mobile: <strong>0123456789</strong>
                                         <br> 
                                         Hotline: <strong>0123456789</strong>
                                         <br>
-                                        Mail: <a href="mailto:demo@example.com">demo@example.com</a>
+                                        Mail: <a href="mailto:demo@drmaciejewska.pl">demo@drmaciejewska.pl</a>
                                     </span>
                                 </div>
                             </div>
@@ -64,8 +64,8 @@
                                     <i class="fal fa-clock"></i>
                                 </div>
                                 <div class="info">
-                                    <h4 class="title">Hour of operation</h4>
-                                    <span class="info-text">Monday – Friday : 09:00 – 20:00 <br> Sunday &amp; Saturday: 10:30 – 22:00</span>
+                                    <h4 class="title">Godziny otwarcia</h4>
+                                    <span class="info-text">Pon. – Pt : 09:00 – 20:00 <br> Niedziela &amp; Sobota: 10:30 – 22:00</span>
                                 </div>
                             </div>
                             <!-- Single Contact Info End -->
