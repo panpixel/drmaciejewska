@@ -16,8 +16,8 @@
                         <!-- Funfact Start -->
                         <div class="col max-mb-30" data-aos="fade-up">
                             <div class="funfact">
-                                <div class="number"><span class="counter">1.926</span></div>
-                                <h6 class="text">Finished sessions</h6>
+                                <div class="number"><span class="counter">250</span>+</div>
+                                <h6 class="text">Zadowolonych klientów</h6>
                             </div>
                         </div>
                         <!-- Funfact End -->
