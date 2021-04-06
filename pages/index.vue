@@ -11,9 +11,7 @@
 
         <TeacherQuote />
 
-        <CounterupTwo />
-
-        <AboutVideoOne />     
+        <CounterupTwo />         
 
          <CourseStyleTwo />
 
@@ -32,8 +30,7 @@
             HeroBanner: () => import('@/components/HeroBanner'),
              AboutUsOne: () => import('@/components/AboutUsOne'),           
             TeacherQuote: () => import('@/components/TeacherQuote'),
-            CounterupTwo: () => import('@/components/CounterupTwo'),
-            AboutVideoOne: () => import('@/components/AboutVideoOne'),           
+            CounterupTwo: () => import('@/components/CounterupTwo'),                    
              CourseStyleTwo: () => import('@/components/CourseStyleTwo'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             FooterStyleOne: () => import('@/components/FooterStyleOne'),

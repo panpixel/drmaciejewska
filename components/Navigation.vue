@@ -9,7 +9,7 @@
             
             </li>
             <li>
-                <n-link to="/about-us-one">
+                <n-link to="/o-mnie">
                     <span class="menu-text">O mnie</span>
                 </n-link>
                 
@@ -43,7 +43,7 @@
                 </ul>
             </li>
             <li>
-                        <n-link to="/contact-me">
+                        <n-link to="/kontakt">
                             <span class="menu-text">Kontakt</span>
                         </n-link>
             </li>

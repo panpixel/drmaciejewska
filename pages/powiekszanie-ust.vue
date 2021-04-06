@@ -26,7 +26,7 @@
 
         <CourseDetailsTab />
 
-        <RelatedCourse />
+        
 
         <FooterStyleOne />
     </div>
@@ -39,7 +39,7 @@
             HeaderStyleTwo: () => import('@/components/HeaderStyleTwo'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
             CourseDetailsTab: () => import('@/components/CourseDetailsTab'),
-            RelatedCourse: () => import('@/components/RelatedCourse'),
+           
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },
 

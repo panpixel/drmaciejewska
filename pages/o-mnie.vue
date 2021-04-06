@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageBannerOne bgImg="backgroundImage: url('/images/page-banner/about-us-01-hero-bg.jpg')" title="Grow strong to take up the challenges of life. The top lessons for getting you back on track." />
+        <PageBannerOne bgImg="backgroundImage: url('/images/page-banner/dabrowagornicza-drmaciejewska.jpg')" title="Dobry wygląd jest naszym celem." />
 
         <AboutUsOne />
 
@@ -15,9 +15,6 @@
 
         <CallToActionOne addClassName="bg-f8f8f8 pt-0" />
 
-        <TeamStyleTwo />
-
-        <NewsletterOne />
 
         <FooterStyleOne addClassName="light-color" addBackgroundColor="bg-navy-blue" />
 
@@ -33,15 +30,14 @@
             AboutUsOne: () => import('@/components/AboutUsOne'),
             AboutVideoOne: () => import('@/components/AboutVideoOne'),
             TestimonialStyleTwo: () => import('@/components/TestimonialStyleTwo'),
-            NewsletterOne: () => import('@/components/NewsletterOne'),
-            TeamStyleTwo: () => import('@/components/TeamStyleTwo'),
+          
             CallToActionOne: () => import('@/components/CallToActionOne'),
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },
 
         head() {
             return {
-                title: 'About Us'
+                title: 'O mnie'
             }
         },
     };

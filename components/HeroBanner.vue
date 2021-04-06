@@ -6,7 +6,7 @@
                 <div class="col align-self-center max-mb-30">
                     <div class="intro1-content text-center text-md-left">
                         <span class="sub-title">Poprawa wyglądu skóry</span>
-                        <h2 class="title">Medycyna estetyczna<br>Lepsza Ty.</h2>
+                        <h2 class="title">Medycyna estetyczna.<br>Piękno w klasie premium.</h2>
                         <div class="desc">
                             <p>Zabiegi medycyny estetycznej pozwalają zniwelować zmarszczki, usunąć blizny oraz pozbyć się innych defektów urody, które w sposób negatywny oddziałują na samopoczucie i samoocenę pacjenta. </p>
                         </div>

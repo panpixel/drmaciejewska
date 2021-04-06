@@ -4,19 +4,19 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _1e8402b7 = () => interopDefault(import('..\\pages\\about-me.vue' /* webpackChunkName: "pages/about-me" */))
-const _3ac764d6 = () => interopDefault(import('..\\pages\\about-us-one.vue' /* webpackChunkName: "pages/about-us-one" */))
 const _532f15bc = () => interopDefault(import('..\\pages\\about-us-two.vue' /* webpackChunkName: "pages/about-us-two" */))
 const _3f37c29f = () => interopDefault(import('..\\pages\\business.vue' /* webpackChunkName: "pages/business" */))
-const _b4d85df8 = () => interopDefault(import('..\\pages\\contact-me.vue' /* webpackChunkName: "pages/contact-me" */))
 const _980041ec = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _57ba060f = () => interopDefault(import('..\\pages\\course-portal.vue' /* webpackChunkName: "pages/course-portal" */))
 const _e406c86e = () => interopDefault(import('..\\pages\\distant-learning.vue' /* webpackChunkName: "pages/distant-learning" */))
 const _0fd3998e = () => interopDefault(import('..\\pages\\gym-coaching.vue' /* webpackChunkName: "pages/gym-coaching" */))
 const _3ffd1d4a = () => interopDefault(import('..\\pages\\health-coaching.vue' /* webpackChunkName: "pages/health-coaching" */))
 const _ef85893c = () => interopDefault(import('..\\pages\\kitchen-coach.vue' /* webpackChunkName: "pages/kitchen-coach" */))
+const _702e4c91 = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
 const _759882b4 = () => interopDefault(import('..\\pages\\login-register.vue' /* webpackChunkName: "pages/login-register" */))
 const _1d0f969f = () => interopDefault(import('..\\pages\\modern-schooling.vue' /* webpackChunkName: "pages/modern-schooling" */))
 const _5964fb82 = () => interopDefault(import('..\\pages\\multimedia-pedagogy.vue' /* webpackChunkName: "pages/multimedia-pedagogy" */))
+const _e120ef8c = () => interopDefault(import('..\\pages\\o-mnie.vue' /* webpackChunkName: "pages/o-mnie" */))
 const _50e437cf = () => interopDefault(import('..\\pages\\powiekszanie-ust.vue' /* webpackChunkName: "pages/powiekszanie-ust" */))
 const _3a134e72 = () => interopDefault(import('..\\pages\\remote-training.vue' /* webpackChunkName: "pages/remote-training" */))
 const _2fd8fc8a = () => interopDefault(import('..\\pages\\zabiegi.vue' /* webpackChunkName: "pages/zabiegi" */))
@@ -56,10 +56,6 @@ export const routerOptions = {
     component: _1e8402b7,
     name: "about-me"
   }, {
-    path: "/about-us-one",
-    component: _3ac764d6,
-    name: "about-us-one"
-  }, {
     path: "/about-us-two",
     component: _532f15bc,
     name: "about-us-two"
@@ -67,10 +63,6 @@ export const routerOptions = {
     path: "/business",
     component: _3f37c29f,
     name: "business"
-  }, {
-    path: "/contact-me",
-    component: _b4d85df8,
-    name: "contact-me"
   }, {
     path: "/contact-us",
     component: _980041ec,
@@ -96,6 +88,10 @@ export const routerOptions = {
     component: _ef85893c,
     name: "kitchen-coach"
   }, {
+    path: "/kontakt",
+    component: _702e4c91,
+    name: "kontakt"
+  }, {
     path: "/login-register",
     component: _759882b4,
     name: "login-register"
@@ -107,6 +103,10 @@ export const routerOptions = {
     path: "/multimedia-pedagogy",
     component: _5964fb82,
     name: "multimedia-pedagogy"
+  }, {
+    path: "/o-mnie",
+    component: _e120ef8c,
+    name: "o-mnie"
   }, {
     path: "/powiekszanie-ust",
     component: _50e437cf,

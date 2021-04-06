@@ -39,9 +39,9 @@
 
             <div class="row max-mt-70">
                 <div class="text-center col-xl-4 col-lg-7 mx-auto">
-                    <n-link to="/course/courses-grid-one" class="link link-lg">
-                        Take the control of their life back and start doing things to make their dream come true. 
-                        <mark>View all courses 
+                    <n-link to="/zabiegi" class="link link-lg">
+                        W naszej klinice mieszczącej się w <strong>Dąbrowie Górniczej</strong> wykonujemy zabiegi medycyny estetycznej.<br/>
+                        <mark>Zobacz wszystkie nasze zabiegi 
                             <i class="far fa-long-arrow-right"></i>
                         </mark>
                     </n-link>
@@ -67,30 +67,30 @@
                     },
                     {
                         imgSrc: "/images/courses/385/course-2.jpg",
-                        alt: "Course Image",
-                        price: "Free",
-                        title: "Customer-centric Info-Tech Strategies",
+                        alt: "Kwas hialuronowy",
+                        price: "250 zł",
+                        title: "Kwas hialuronowy",
                         lessons: "40 Lessons",
                         students: "80 Students",
-                        desc: "The purpose of this course is to provide the advanced writing techniques commonly used for inspiring readers and…"
+                        desc: "Kwas hialuronowy jest naturalną substancją występującą w naszej skórze …"
                     },
                     {
                         imgSrc: "/images/courses/385/course-3.jpg",
-                        alt: "Course Image",
-                        price: "$19.00",
-                        title: "Open Programming Courses for Everyone: Python",
+                        alt: "Leczenie Nadpotliwości",
+                        price: "150 zł",
+                        title: "Leczenie Nadpotliwości",
                         lessons: "16 Lessons",
                         students: "57 Students",
-                        desc: "The purpose of this course is to provide the advanced writing techniques commonly used for inspiring readers and…"
+                        desc: "Właściwą funkcją organizmu jest wydzielanie potu ale jego nadmiar jest bardzo kłopotliwy …"
                     },
                     {
                         imgSrc: "/images/courses/385/course-4.jpg",
-                        alt: "Course Image",
-                        price: "$26.00",
-                        title: "Academic Listening and Note-taking",
+                        alt: "Mezoterapia NCTF 135HA",
+                        price: "300 zł",
+                        title: "Mezoterapia NCTF 135HA",
                         lessons: "20 Lessons",
                         students: "51 Students",
-                        desc: "The purpose of this course is to provide the advanced writing techniques commonly used for inspiring readers and…"
+                        desc: "Mezoterapia jest metodą stosowaną od wielu lat na całym świecie w celu miejscowej rewitalizacji skóry …"
                     }
                 ]
             }

@@ -20,47 +20,7 @@
                     </div>
                     <!-- Header Main Menu End -->
 
-                    <!-- Header Right Start -->
-                    <div class="col-xl-3 col-auto">
-                        <div class="header-right">
-                            <div class="inner">
-                                <!-- Header Login Start -->
-                                <div class="header-login">
-                                    <n-link to="/course/profile">
-                                        <i class="far fa-user-circle"></i>
-                                    </n-link>
-                                </div>
-                                <!-- Header Login End -->
-
-                                <!-- Header Search Start -->
-                                <div class="header-search">
-                                    <button class="header-search-toggle" @click="isHidden = !isHidden">
-                                        <i class="far fa-search"></i>
-                                    </button>
-                                    <div class="header-search-form" v-show="!isHidden">
-                                        <form>
-                                            <input type="text" placeholder="Search...">
-                                            <button>
-                                                <i class="fas fa-search"></i>
-                                            </button>
-                                        </form>
-                                    </div>
-                                </div>
-                                <!-- Header Search End -->
-
-                                <!-- Header Mobile Menu Toggle Start -->
-                                <div class="header-mobile-menu-toggle d-xl-none ml-sm-2">
-                                    <button class="toggle" @click="mobiletoggleClass('addClass', 'show-mobile-menu')">
-                                        <i class="icon-top"></i>
-                                        <i class="icon-middle"></i>
-                                        <i class="icon-bottom"></i>
-                                    </button>
-                                </div>
-                                <!-- Header Mobile Menu Toggle End -->
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Header Right End -->
+                   
                 </div>
             </div>
         </div>

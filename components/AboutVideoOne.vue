@@ -26,12 +26,10 @@
 
                 <div class="col-lg-4">
                     <div class="about-content mt-sm-50 mt-xs-50">
-                        <span class="sub-title">how we work</span>
-                        <h2 class="title">Upgrade Your Skills <span>Upgrade Your Life</span> </h2>
-                        <p>Spend some time to visit our website or head office and discover our current courses, enrollment procedure, and registration deadline. We're opening new classes every beginning of each month. </p>
-                        <n-link to="" class="link link-lg">
-                            <mark>Download free guidebook <i class="far fa-long-arrow-right"></i></mark>
-                        </n-link>
+                        <span class="sub-title">Najnowocześniejsze produkty</span>
+                        <h2 class="title">Clinica <span>Dąbrowa Górnicza</span> </h2>
+                        <p>Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        
                     </div>
                 </div>
             </div>

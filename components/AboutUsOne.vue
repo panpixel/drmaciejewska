@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-1 order-2">
                     <div class="about-content mt-sm-50 mt-xs-50">
-                        <span class="sub-title">Get to know about <strong>MaxCoach</strong></span>
+                        <span class="sub-title">Medycyna <strong>Estetyczna</strong></span>
                         <h2 class="title">Czym zajmuje się <span>Medycyna Estetyczna?</span></h2>
                         <p>Zapraszamy Państwa do naszej kliniki w Dąbrowie Górniczej. </p>
                       

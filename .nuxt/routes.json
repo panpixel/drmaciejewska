@@ -7,13 +7,6 @@
     "_name": "_1e8402b7"
   },
   {
-    "name": "about-us-one",
-    "path": "/about-us-one",
-    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\about-us-one.vue",
-    "chunkName": "pages/about-us-one",
-    "_name": "_3ac764d6"
-  },
-  {
     "name": "about-us-two",
     "path": "/about-us-two",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\about-us-two.vue",
@@ -26,13 +19,6 @@
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\business.vue",
     "chunkName": "pages/business",
     "_name": "_3f37c29f"
-  },
-  {
-    "name": "contact-me",
-    "path": "/contact-me",
-    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\contact-me.vue",
-    "chunkName": "pages/contact-me",
-    "_name": "_b4d85df8"
   },
   {
     "name": "contact-us",
@@ -77,6 +63,13 @@
     "_name": "_ef85893c"
   },
   {
+    "name": "kontakt",
+    "path": "/kontakt",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\kontakt.vue",
+    "chunkName": "pages/kontakt",
+    "_name": "_702e4c91"
+  },
+  {
     "name": "login-register",
     "path": "/login-register",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\login-register.vue",
@@ -96,6 +89,13 @@
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\multimedia-pedagogy.vue",
     "chunkName": "pages/multimedia-pedagogy",
     "_name": "_5964fb82"
+  },
+  {
+    "name": "o-mnie",
+    "path": "/o-mnie",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\o-mnie.vue",
+    "chunkName": "pages/o-mnie",
+    "_name": "_e120ef8c"
   },
   {
     "name": "powiekszanie-ust",

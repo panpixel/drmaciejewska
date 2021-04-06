@@ -8,24 +8,21 @@
                         <div class="footer-widget-content">
                             <div class="content">
                                 <p>Tysiąclecia 7, 41-303 Dąbrowa Górnicza</p>
-                                <p>0123456789 (9:00 - 17:00 Poniedziałek - Piątek)</p>
+                                <p>tel. dla pacjentów: 799 866 161</p>
+                                <p>tel. do umawiania wizyt: (32) 264 22 62)</p>
                                 <p>
-                                    <a href="mailto:info@example.com">info@example.com</a>
+                                    <a href="mailto:kontakt@drmaciejewska.pl">kontakt@drmaciejewska.pl</a>
                                 </p>
                             </div>
                             <div class="footer-social-inline">
                                 <a href="https://www.facebook.com/" target="_blank">
                                     <i class="fab fa-facebook-square"></i>
                                 </a>
-                                <a href="https://twitter.com/" target="_blank">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
+                               
                                 <a href="https://www.instagram.com/" target="_blank">
                                     <i class="fab fa-instagram"></i>
                                 </a>
-                                <a href="https://www.linkedin.com/" target="_blank">
-                                    <i class="fab fa-linkedin"></i>
-                                </a>
+                               
                             </div>
                         </div>
                     </div>
@@ -33,26 +30,24 @@
                 
                 <div class="col-xl-3 col-md-4 col-sm-7 max-mb-50">
                     <div class="footer-widget" :class="addClassName">
-                        <h4 class="footer-widget-title">Explore</h4>
+                        <h4 class="footer-widget-title">Medycyna estetyczna</h4>
                         <div class="footer-widget-content">
                             <ul class="column-2">
                                 <li>
-                                    <n-link to="">Start here</n-link>
+                                    <n-link to="">link 1</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="">Success story</n-link>
+                                    <n-link to="">link 2</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="/blog/blog-grid">Blog</n-link>
+                                    <n-link to="">link 3</n-link>
+                                </li>
+                               
+                                <li>
+                                    <n-link to="/o-mnie">Joanna Maciejewska</n-link>
                                 </li>
                                 <li>
-                                    <n-link to="/course/courses-grid-one">Courses</n-link>
-                                </li>
-                                <li>
-                                    <n-link to="/about-us-one">About us</n-link>
-                                </li>
-                                <li>
-                                    <n-link to="/contact-us">Contact us</n-link>
+                                    <n-link to="/kontakt">Kontakt</n-link>
                                 </li>
                             </ul>
                         </div>

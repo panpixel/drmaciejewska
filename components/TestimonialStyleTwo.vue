@@ -2,7 +2,7 @@
     <div class="testimonial-section section-padding bg-f8f8f8">
         <div class="container-fluid pl-80 pl-lg-15 pl-md-15 pl-sm-15 pl-xs-15 pr-80 pr-lg-15 pr-md-15 pr-sm-15 pr-xs-15">
             
-            <SectionHeader subTitle="great words about maxcoach" title="What make they love us?" alignment="text-center section-title-two" />
+            <SectionHeader subTitle="co mówią o nas nasi klienci?" title="Opinie o DrMaciejewska.pl?" alignment="text-center section-title-two" />
 
             <!--Testimonial Slider Start -->
             <div class="testimonial-slider-two" data-aos="fade-up">
@@ -19,7 +19,7 @@
                                 </div>
                                 <div class="cite">
                                     <h6 class="name">{{ testimonial.name }}</h6>
-                                    <span class="position">/ {{ testimonial.position }}</span>
+                                   
                                 </div>
                             </div>
                         </div>
@@ -63,23 +63,23 @@
 
                 testimonials: [
                     {
-                        title: "High level of efficiency and scientific teaching methods",
-                        desc: "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
-                        name: "Florence Themes",
-                        position: "Multimedia Admin",
+                        title: "Ocena na najwyższym poziomie",
+                        desc: "Ocena na najwyższym poziomie, fachowa porada, profesjonalne podejście do pacjenta. Polecam.",
+                        name: "Kasia",
+                        position: "Kasia",
                         imgSrc: "/images/testimonial/70/testimonial-1.jpg"
                     },
                     {
-                        title: "Professional team of specialists and passionate mentors at reach",
-                        desc: "I need to get a certification for English proficiency and MaxCoach is my best choice. Their tutors are smart and professional when dealing with students.",
-                        name: "Madley Pondor",
+                        title: "Wspaniały kontakt,fantastycznie przeprowadzony zabieg",
+                        desc: "Pełny profesjonalizm. Wspaniały kontakt,fantastycznie przeprowadzony zabieg i co bardzo ważne,zainteresowanie pacjentem również w dniu następnym po zabiegu. Praktycznie nie spotykane. Pozdrawiam cały zespół.",
+                        name: "Ania",
                         position: "IT Specialist",
                         imgSrc: "/images/testimonial/70/testimonial-2.jpg"
                     },
                     {
-                        title: "Highly recommend their courses and teaching system",
-                        desc: "I am happy with their arrangement of lessons and subjects. They reflect a scientific investigation into effective methods to adopt for learners.",
-                        name: "Luvic Dubble",
+                        title: "Kontakt jest szybki i konkretny",
+                        desc: " Nie mam co prawda żadnego porównania z innymi tego typu gabinetami, ale jakoś nie czuję potrzeby, by takie porównanie robić, a klinikę zmieniać. Klasa.",
+                        name: "Beata",
                         position: "Private Tutor",
                         imgSrc: "/images/testimonial/70/testimonial-3.jpg"
                     }

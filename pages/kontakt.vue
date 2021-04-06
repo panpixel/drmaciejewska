@@ -23,7 +23,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="contact-title">
-                            <span class="sub-title">Get excited already?</span>
+                            <span class="sub-title">Jesteśmy do Twojej dyspozycji.</span>
                             <h2 class="title">Skontaktuj się z nami!</h2>
                         </div>
 
@@ -35,7 +35,10 @@
                                 </div>
                                 <div class="info">
                                     <h4 class="title"> Adres</h4>
-                                    <span class="info-text"> Adres tutaj</span>
+                                    <span class="info-text"> Clinica stomatologiczna, <br />
+                                    ul. Tysiąclecia 7, <br />41-303 Dąbrowa Górnicza
+                                    
+                                    </span>
                                 </div>
                             </div>
                             <!-- Single Contact Info End -->
@@ -48,11 +51,11 @@
                                 <div class="info">
                                     <h4 class="title">Kontakt</h4>
                                     <span class="info-text"> 
-                                        Mobile: <strong>0123456789</strong>
+                                        Umów wizytę: <strong>(32) 264 22 62</strong>
                                         <br> 
-                                        Hotline: <strong>0123456789</strong>
+                                        Tel. dla pacjentów: <strong>799 866 161</strong>
                                         <br>
-                                        Mail: <a href="mailto:demo@drmaciejewska.pl">demo@drmaciejewska.pl</a>
+                                        Mail: <a href="mailto:kontakt@drmaciejewska.pl">kontakt@drmaciejewska.pl</a>
                                     </span>
                                 </div>
                             </div>
@@ -65,7 +68,7 @@
                                 </div>
                                 <div class="info">
                                     <h4 class="title">Godziny otwarcia</h4>
-                                    <span class="info-text">Pon. – Pt : 09:00 – 20:00 <br> Niedziela &amp; Sobota: 10:30 – 22:00</span>
+                                    <span class="info-text">Pon. – Pt : 09:00 – 20:00 <br> Niedziela i Sobota: zamknięte</span>
                                 </div>
                             </div>
                             <!-- Single Contact Info End -->
@@ -74,7 +77,7 @@
                     </div>
                     <div class="col-lg-8">
                         <div class="contact-image mt-sm-50 mt-xs-50">
-                            <img src="/images/others/contact.jpg" alt="image">
+                            <img src="/images/others/kontakt-drmaciejewska.jpg" alt="kontakt dr joanna maciejewska">
 
                             <!-- Animation Shape Start -->
                             <ShapeWithAnimation addClassName="shape-1" dataDepth="3" imgSrc="/images/shape-animation/about-shape-1.png" />
@@ -88,21 +91,7 @@
             </div>
         </div>
 
-        <div class="contact-form-section section-padding-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="contact-title">
-                            <h2 class="title">Or just drop me a line</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-8">
-                        <ContactForm />
-                    </div>
-                </div>
-            </div>
-        </div>
-
+     
         <FooterStyleOne />
 
     </div>
