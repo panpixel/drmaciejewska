@@ -168,6 +168,66 @@
 
                     
                 </tbody>
+                <thead>
+                    <tr>
+                        <th>
+                         <div class="price"> <span class="amount">Nici</span></div>
+                            <div class="title">nici</div>                            
+                        </th>
+                        <th>                          
+                        </th>                     
+                     
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr>
+                        <td class="desc">nici PDO</td>
+                        <td>60zł/1szt</td>
+                        
+                     
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">nici liftingujące (haczykowate)</a></td>
+                        <td>390zł/1nić</td>
+                       
+                      
+                    </tr>
+                          
+
+                    
+                </tbody>
+                 <thead>
+                    <tr>
+                        <th>
+                         <div class="price"> <span class="amount">TERAPIE AUTOLOGICZNE:</span></div>
+                            <div class="title">terapie</div>                            
+                        </th>
+                        <th>                          
+                        </th>                     
+                     
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr>
+                        <td class="desc">osocze bogatopłytkowe</td>
+                        <td>650zł</td>
+                        
+                     
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">fibryna komórkowa</a></td>
+                        <td>650zł</td>
+                       
+                      
+                    </tr>
+                      <tr>
+                        <td class="desc"><a href="#">terapia łączona (osocze + fibryna)</a></td>
+                        <td>950zł</td>                       
+                      
+                    </tr>    
+
+                    
+                </tbody>
             </table>
             <!-- Pricing Table (Table) End -->
 
@@ -238,7 +298,43 @@
                     </div>
                 </div>
                 <!-- Pricing Table Item End -->
-
+                 
+                 <!-- Pricing Table Item Start -->
+                <div class="col max-mb-30">
+                    <div class="pricing">
+                        <div class="pricing-header">
+                             <h6>NICI</h6>   
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li>nici PDO: 60zł/1szt</li>
+                                <li><a href="#">nici liftingujące (haczykowate): 390zł / 1nić</a></li>
+                               
+                              
+                            </ul>
+                        </div>
+                        
+                    </div>
+                </div>
+                <!-- Pricing Table Item End -->
+                   <!-- Pricing Table Item Start -->
+                <div class="col max-mb-30">
+                    <div class="pricing">
+                        <div class="pricing-header">
+                             <h6>TERAPIE AUTOLOGICZNE</h6>   
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li>osocze bogatopłytkowe: 650zł</li>
+                                <li><a href="#">fibryna komórkowa: 650zł</a></li>
+                               <li><a href="#">terapia łączona (osocze + fibryna): 950zł</a></li>
+                              
+                            </ul>
+                        </div>
+                        
+                    </div>
+                </div>
+                <!-- Pricing Table Item End -->
                 
             </div>
             <!-- Pricing Table End -->
