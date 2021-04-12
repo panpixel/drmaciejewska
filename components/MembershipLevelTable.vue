@@ -131,6 +131,42 @@
                      
                        
                     </tr>
+
+                    
+                </tbody>
+                 <thead>
+                    <tr>
+                        <th>
+                         <div class="price"> <span class="amount">KWAS HIALURONOWY</span></div>
+                            <div class="title">kwas</div>                            
+                        </th>
+                        <th>                          
+                        </th>                     
+                     
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr>
+                        <td class="desc">wypełniacz</td>
+                        <td>750zł / 1 okolica / 1ml</td>
+                        
+                     
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">wypełniacz</a></td>
+                        <td>830zł / 1 okolica / 1,2ml</td>
+                       
+                      
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">modelowanie ust</a></td>
+                        <td>790zł</td>
+                       
+                        
+                    </tr>
+                    
+
+                    
                 </tbody>
             </table>
             <!-- Pricing Table (Table) End -->
@@ -177,6 +213,25 @@
                                 <li><a href="#">uniesienie łuku brwiowego: 290zł</a></li>
                                 <li><a href="#">leczenie bruksizmu: 790zł</a></li>
                                 <li><a href="#">leczenie nadpotliwości (pachy): od 1500zł</a></li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                </div>
+                <!-- Pricing Table Item End -->
+
+                 <!-- Pricing Table Item Start -->
+                <div class="col max-mb-30">
+                    <div class="pricing">
+                        <div class="pricing-header">
+                             <h6>KWAS HIALURONOWY</h6>   
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li>wypełniacz: 750zł / 1 okolica / 1ml</li>
+                                <li><a href="#">wypełniacz: 830zł / 1 okolica 1,2ml</a></li>
+                                <li><a href="#">modelowanie ust: 790zł</a></li>
+                              
                             </ul>
                         </div>
                         
