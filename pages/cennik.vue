@@ -19,7 +19,7 @@
 
             <div class="page-title">
                 <div class="container">
-                    <h1 class="title">Membership Levels</h1>
+                    <h1 class="title">Cennik</h1>
                 </div>
             </div>
         </div>

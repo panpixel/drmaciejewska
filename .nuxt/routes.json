@@ -21,6 +21,13 @@
     "_name": "_3f37c29f"
   },
   {
+    "name": "cennik",
+    "path": "/cennik",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\cennik.vue",
+    "chunkName": "pages/cennik",
+    "_name": "_19a7863a"
+  },
+  {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\contact-us.vue",

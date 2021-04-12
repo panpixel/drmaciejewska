@@ -43,6 +43,11 @@
                 </ul>
             </li>
             <li>
+                        <n-link to="/cennik">
+                            <span class="menu-text">Cennik</span>
+                        </n-link>
+            </li>
+            <li>
                         <n-link to="/kontakt">
                             <span class="menu-text">Kontakt</span>
                         </n-link>

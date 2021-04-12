@@ -6,6 +6,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _1e8402b7 = () => interopDefault(import('..\\pages\\about-me.vue' /* webpackChunkName: "pages/about-me" */))
 const _532f15bc = () => interopDefault(import('..\\pages\\about-us-two.vue' /* webpackChunkName: "pages/about-us-two" */))
 const _3f37c29f = () => interopDefault(import('..\\pages\\business.vue' /* webpackChunkName: "pages/business" */))
+const _19a7863a = () => interopDefault(import('..\\pages\\cennik.vue' /* webpackChunkName: "pages/cennik" */))
 const _980041ec = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _57ba060f = () => interopDefault(import('..\\pages\\course-portal.vue' /* webpackChunkName: "pages/course-portal" */))
 const _e406c86e = () => interopDefault(import('..\\pages\\distant-learning.vue' /* webpackChunkName: "pages/distant-learning" */))
@@ -63,6 +64,10 @@ export const routerOptions = {
     path: "/business",
     component: _3f37c29f,
     name: "business"
+  }, {
+    path: "/cennik",
+    component: _19a7863a,
+    name: "cennik"
   }, {
     path: "/contact-us",
     component: _980041ec,
