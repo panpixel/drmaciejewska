@@ -8,13 +8,10 @@
                     <tr>
                         <th>
                          <div class="price"> <span class="amount">MEZOTERAPIA</span></div>
-                            <div class="title">mezoterapia Jalupro</div>
-                            <div class="desc">You can view few of courses</div>
+                            <div class="title">mezoterapia</div>                            
                         </th>
-                        <th>
-                          
-                        </th>
-                      
+                        <th>                          
+                        </th>                     
                      
                     </tr>
                 </thead>
@@ -68,7 +65,73 @@
                        
                     </tr>
                 </tbody>
-          
+             <thead>
+                    <tr>
+                        <th>
+                         <div class="price"> <span class="amount">BOTOKS (Bocouture)</span></div>
+                            <div class="title">Botoks</div>                            
+                        </th>
+                        <th>                          
+                        </th>                     
+                     
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr>
+                        <td class="desc">„lwia zmarszczka”</td>
+                        <td>od - 490zł</td>
+                        
+                     
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">„kurze łapki”</a></td>
+                        <td>490zł</td>
+                       
+                      
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">zmarszczki poprzeczne czoła</a></td>
+                        <td>od 550zł</td>
+                       
+                        
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">uśmiech dziąsłowy</a></td>
+                        <td>390zł</td>
+                        
+                        
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">zmarszczki „królicze”</a></td>
+                        <td>290zł</td>
+                        
+                        
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">broda brukowana</a></td>
+                        <td>290zł</td>
+                       
+                        
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">uniesienie łuku brwiowego</a></td>
+                        <td>290zł</td>
+                       
+                        
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">leczenie bruksizmu</a></td>
+                        <td>790zł</td>
+                     
+                       
+                    </tr>
+                     <tr>
+                        <td class="desc"><a href="#">leczenie nadpotliwości (pachy)</a></td>
+                        <td>od 1500zł</td>
+                     
+                       
+                    </tr>
+                </tbody>
             </table>
             <!-- Pricing Table (Table) End -->
 
@@ -102,49 +165,26 @@
                 <div class="col max-mb-30">
                     <div class="pricing">
                         <div class="pricing-header">
-                            <div class="price"> <span class="amount">$1,000</span> </div>
-                            <h6 class="title">Gold Membership</h6>
-                            <div class="desc">You can view most of courses</div>
+                             <h6>BOTOKS</h6>   
                         </div>
                         <div class="pricing-body">
                             <ul>
-                                <li>Number of courses: 6</li>
-                                <li><a href="#">Introduction to Javascript for Beginners</a></li>
-                                <li><a href="#">Open Programming Courses for Everyone: Python</a></li>
-                                <li><a href="#">Master jQuery in a Short Period of Time</a></li>
-                                <li><a href="#">Problem-solving Skills for Better Success</a></li>
-                                <li><a href="#">Database &amp; SQL for Computer Science</a></li>
-                                <li><a href="#">Academic Listening and Note-taking</a></li>
+                                <li>„lwia zmarszczka”: od - 490zł</li>
+                                <li><a href="#">„kurze łapki”: 490zł</a></li>
+                                <li><a href="#">zmarszczki poprzeczne czoła: 390zł</a></li>
+                                <li><a href="#">zmarszczki „królicze„: 290zł</a></li>
+                                <li><a href="#">broda brukowana: 290zł</a></li>
+                                <li><a href="#">uniesienie łuku brwiowego: 290zł</a></li>
+                                <li><a href="#">leczenie bruksizmu: 790zł</a></li>
+                                <li><a href="#">leczenie nadpotliwości (pachy): od 1500zł</a></li>
                             </ul>
                         </div>
-                        <div class="pricing-footer"><a class="btn btn-light btn-hover-secondary" href="JavaScript:Void(0);">Get it now</a></div>
+                        
                     </div>
                 </div>
                 <!-- Pricing Table Item End -->
 
-                <!-- Pricing Table Item Start -->
-                <div class="col max-mb-30">
-                    <div class="pricing">
-                        <div class="pricing-header">
-                            <div class="price"> <span class="amount">$1,500</span> </div>
-                            <h6 class="title">Diamond Membership</h6>
-                            <div class="desc">You can view all of courses</div>
-                        </div>
-                        <div class="pricing-body">
-                            <ul>
-                                <li>Number of courses: 21</li>
-                                <li><a href="#">Introduction to Javascript for Beginners</a></li>
-                                <li><a href="#">Open Programming Courses for Everyone: Python</a></li>
-                                <li><a href="#">Master jQuery in a Short Period of Time</a></li>
-                                <li><a href="#">Problem-solving Skills for Better Success</a></li>
-                                <li><a href="#">Database &amp; SQL for Computer Science</a></li>
-                            </ul>
-                        </div>
-                        <div class="pricing-footer"><a class="btn btn-light btn-hover-secondary" href="JavaScript:Void(0);">Get it now</a></div>
-                    </div>
-                </div>
-                <!-- Pricing Table Item End -->
-
+                
             </div>
             <!-- Pricing Table End -->
         </div>
