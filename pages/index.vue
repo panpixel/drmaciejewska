@@ -15,6 +15,8 @@
 
          <CourseStyleTwo />
 
+         <CallToActionThree />
+
         <BrandLogoCarousel />
 
         <FooterStyleOne addClassName="light-color" addBackgroundColor="bg-navy-blue" />
@@ -34,6 +36,7 @@
              CourseStyleTwo: () => import('@/components/CourseStyleTwo'),
             BrandLogoCarousel: () => import('@/components/BrandLogoCarousel'),
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
+            CallToActionThree: () => import('@/components/CallToActionThree'),            
         },
 
         head() {
