@@ -8,7 +8,7 @@
                     <tr>
                         <th>
                          <div class="price"> <span class="amount">MEZOTERAPIA</span></div>
-                            <div class="title">mezoterapia</div>                            
+                            <div class="title">trzeci zabieg 50% TANIEJ</div>                            
                         </th>
                         <th>                          
                         </th>                     
@@ -69,7 +69,7 @@
                     <tr>
                         <th>
                          <div class="price"> <span class="amount">BOTOKS (Bocouture)</span></div>
-                            <div class="title">Botoks</div>                            
+                            <div class="title">zabiegi</div>                            
                         </th>
                         <th>                          
                         </th>                     
@@ -138,7 +138,7 @@
                     <tr>
                         <th>
                          <div class="price"> <span class="amount">KWAS HIALURONOWY</span></div>
-                            <div class="title">kwas</div>                            
+                            <div class="title">zabiegi</div>                            
                         </th>
                         <th>                          
                         </th>                     
@@ -172,7 +172,7 @@
                     <tr>
                         <th>
                          <div class="price"> <span class="amount">Nici</span></div>
-                            <div class="title">nici</div>                            
+                            <div class="title">zabiegi</div>                            
                         </th>
                         <th>                          
                         </th>                     
@@ -200,7 +200,7 @@
                     <tr>
                         <th>
                          <div class="price"> <span class="amount">TERAPIE AUTOLOGICZNE:</span></div>
-                            <div class="title">terapie</div>                            
+                            <div class="title">trzeci zabieg 50% TANIEJ</div>                            
                         </th>
                         <th>                          
                         </th>                     
@@ -225,8 +225,61 @@
                         <td>950zł</td>                       
                       
                     </tr>    
-
-                    
+                    <tr>
+                        <td class="desc"><a href="#">konsultacja w zakresie medycyny estetycznej</a></td>
+                        <td>100zł</td>                       
+                      
+                    </tr>  
+                     <tr>
+                        <td class="desc"><a href="#">znieczulenie przedzabiegowe</a></td>
+                        <td>50zł</td>                       
+                      
+                    </tr>  
+                </tbody>
+                 <thead>
+                    <tr>
+                        <th>
+                         <div class="price"> <span class="amount">Zabiegi Jalupro PREMIUM:</span></div>
+                            <div class="title">zabiegi</div>                            
+                        </th>
+                        <th>                          
+                        </th>                     
+                     
+                    </tr>
+                </thead>
+                  <tbody>
+                    <tr>
+                        <td class="desc">Jalu – Power – okolica oka</td>
+                        <td>690zł</td>
+                        
+                     
+                    </tr>
+                    <tr>
+                        <td class="desc"><a href="#">Jalu – toxin</a></td>
+                        <td>1300zł</td>
+                       
+                      
+                    </tr>
+                      <tr>
+                        <td class="desc"><a href="#">Jalu – Complex <br />(aż trzy okolice w jednym zabiegu! Do wyboru po konsultacji: twarz, szyja, dekolt, dłonie)</a></td>
+                        <td>1500zł</td>                       
+                      
+                    </tr>    
+                    <tr>
+                        <td class="desc"><a href="#">Jalu – plasma <br />(3 okolice w jednym zabiegu! Do wybory po konsultacji: twarz, szyja, dekolt, skóra głowy, dłonie)</a></td>
+                        <td>1500zł</td>                       
+                      
+                    </tr>  
+                     <tr>
+                        <td class="desc"><a href="#">maseczka medyczna pozabiegowa regenerująca</a></td>
+                        <td>40zł</td>                       
+                      
+                    </tr>  
+                     <tr>
+                        <td class="desc"><a href="#">zestaw do domowej suplementacji po zabiegach Jalupro <br />(kuracja na 1 miesiąc)</a></td>
+                        <td>300zł</td>                       
+                      
+                    </tr>  
                 </tbody>
             </table>
             <!-- Pricing Table (Table) End -->
@@ -243,13 +296,13 @@
                         <div class="pricing-body">
                             <ul>
                                 <li>mezoterapia Jalupro: <strong>690zł</strong></li>
-                                <li><a href="#">mezoterapia Jalupro HMW: 890zł</a></li>
-                                <li><a href="#">mezoterapia Teoxane: 600zł</a></li>
-                                <li><a href="#">mezoterapia NCTF 135 HA: 600zł</a></li>
-                                <li><a href="#">mezoterapia Restylane Skinboosters: 750zł</a></li>
-                                <li><a href="#">mezoterapia skóry głowy (Dr Cyj): 750zł</a></li>
-                                <li><a href="#">Profhilo: 1200zł</a></li>
-                                <li><a href="#">kolagen (wypełnianie zmarszczek ): 700zł/amp 2ml</a></li>
+                                <li><a href="#">mezoterapia Jalupro HMW: <strong>890zł</strong></a></li>
+                                <li><a href="#">mezoterapia Teoxane: <strong>600zł</strong></a></li>
+                                <li><a href="#">mezoterapia NCTF 135 HA: <strong>600zł</strong></a></li>
+                                <li><a href="#">mezoterapia Restylane Skinboosters: <strong>750zł</strong></a></li>
+                                <li><a href="#">mezoterapia skóry głowy (Dr Cyj): <strong>750zł</strong></a></li>
+                                <li><a href="#">Profhilo: <strong>1200zł</strong></a></li>
+                                <li><a href="#">kolagen (wypełnianie zmarszczek ): <strong>700zł/amp 2ml</strong></a></li>
                             </ul>
                         </div>
                       
@@ -265,14 +318,14 @@
                         </div>
                         <div class="pricing-body">
                             <ul>
-                                <li>„lwia zmarszczka”: od - 490zł</li>
-                                <li><a href="#">„kurze łapki”: 490zł</a></li>
-                                <li><a href="#">zmarszczki poprzeczne czoła: 390zł</a></li>
-                                <li><a href="#">zmarszczki „królicze„: 290zł</a></li>
-                                <li><a href="#">broda brukowana: 290zł</a></li>
-                                <li><a href="#">uniesienie łuku brwiowego: 290zł</a></li>
-                                <li><a href="#">leczenie bruksizmu: 790zł</a></li>
-                                <li><a href="#">leczenie nadpotliwości (pachy): od 1500zł</a></li>
+                                <li>„lwia zmarszczka”: <strong>od - 490zł</strong></li>
+                                <li><a href="#">„kurze łapki”: <strong>490zł</strong></a></li>
+                                <li><a href="#">zmarszczki poprzeczne czoła: <strong>390zł</strong></a></li>
+                                <li><a href="#">zmarszczki „królicze„: <strong>290zł</strong></a></li>
+                                <li><a href="#">broda brukowana: <strong>290zł</strong></a></li>
+                                <li><a href="#">uniesienie łuku brwiowego: <strong>290zł</strong></a></li>
+                                <li><a href="#">leczenie bruksizmu: <strong>790zł</strong></a></li>
+                                <li><a href="#">leczenie nadpotliwości (pachy): <strong>od 1500zł</strong></a></li>
                             </ul>
                         </div>
                         
@@ -288,9 +341,9 @@
                         </div>
                         <div class="pricing-body">
                             <ul>
-                                <li>wypełniacz: 750zł / 1 okolica / 1ml</li>
-                                <li><a href="#">wypełniacz: 830zł / 1 okolica 1,2ml</a></li>
-                                <li><a href="#">modelowanie ust: 790zł</a></li>
+                                <li>wypełniacz: <strong>750zł / 1 okolica / 1ml</strong></li>
+                                <li><a href="#">wypełniacz: <strong>830zł / 1 okolica 1,2ml</strong></a></li>
+                                <li><a href="#">modelowanie ust: <strong>790zł</strong></a></li>
                               
                             </ul>
                         </div>
@@ -307,8 +360,8 @@
                         </div>
                         <div class="pricing-body">
                             <ul>
-                                <li>nici PDO: 60zł/1szt</li>
-                                <li><a href="#">nici liftingujące (haczykowate): 390zł / 1nić</a></li>
+                                <li>nici PDO: <strong>60zł/1szt</strong></li>
+                                <li><a href="#">nici liftingujące (haczykowate): <strong>390zł / 1nić</strong></a></li>
                                
                               
                             </ul>
@@ -325,16 +378,39 @@
                         </div>
                         <div class="pricing-body">
                             <ul>
-                                <li>osocze bogatopłytkowe: 650zł</li>
-                                <li><a href="#">fibryna komórkowa: 650zł</a></li>
-                               <li><a href="#">terapia łączona (osocze + fibryna): 950zł</a></li>
-                              
+                                <li>osocze bogatopłytkowe: <strong>650zł</strong></li>
+                                <li><a href="#">fibryna komórkowa: <strong>650zł</strong></a></li>
+                               <li><a href="#">terapia łączona (osocze + fibryna): <strong>950zł</strong></a></li>
+                               <li><a href="#">konsultacja w zakresie medycyny estetycznej: <strong>100zł</strong></a></li>
+                               <li><a href="#">znieczulenie przedzabiegowe: <strong>50zł</strong></a></li>
                             </ul>
                         </div>
                         
                     </div>
                 </div>
                 <!-- Pricing Table Item End -->
+
+                <!-- Pricing Table Item Start -->
+                <div class="col max-mb-30">
+                    <div class="pricing">
+                        <div class="pricing-header">
+                             <h6>Zabiegi Jalupro PREMIUM</h6>   
+                        </div>
+                        <div class="pricing-body">
+                            <ul>
+                                <li>Jalu – Power – okolica oka: <strong>690zł</strong></li>
+                                <li><a href="#">Jalu – toxin: <strong>1300zł</strong></a></li>
+                               <li><a href="#">Jalu – Complex (aż trzy okolice w jednym zabiegu! Do wyboru po konsultacji: twarz, szyja, dekolt, dłonie): <strong>1500zł</strong></a></li>
+                               <li><a href="#">Jalu – plasma (aż trzy okolice w jednym zabiegu! Do wybory po konsultacji: twarz, szyja, dekolt, skóra głowy, dłonie): <strong>1500zł</strong></a></li>
+                               <li><a href="#">maseczka medyczna pozabiegowa regenerująca: <strong>40zł</strong></a></li>
+                               <li><a href="#">zestaw do domowej suplementacji po zabiegach Jalupro (kuracja na 1 miesiąc)): <strong>300zł</strong></a></li>
+                            </ul>
+                        </div>
+                        
+                    </div>
+                </div>
+                <!-- Pricing Table Item End -->
+
                 
             </div>
             <!-- Pricing Table End -->
