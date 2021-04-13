@@ -59,7 +59,7 @@
                     {
                         imgSrc: "/images/zabiegi/bruksizm-medycyna-estetyczna-drmaciejewska.jpg",
                         alt: "Bruksizm",
-                        price: "200 zł",
+                        price: "790 zł",
                         title: "Bruksizm",
                         lessons: "20 Lessons",
                         students: "51 Students",
@@ -68,7 +68,7 @@
                     {
                         imgSrc: "/images/courses/385/course-2.jpg",
                         alt: "Kwas hialuronowy",
-                        price: "250 zł",
+                        price: "od 750 zł",
                         title: "Kwas hialuronowy",
                         lessons: "40 Lessons",
                         students: "80 Students",
@@ -77,7 +77,7 @@
                     {
                         imgSrc: "/images/courses/385/course-3.jpg",
                         alt: "Leczenie Nadpotliwości",
-                        price: "150 zł",
+                        price: "1500 zł",
                         title: "Leczenie Nadpotliwości",
                         lessons: "16 Lessons",
                         students: "57 Students",
@@ -86,7 +86,7 @@
                     {
                         imgSrc: "/images/courses/385/course-4.jpg",
                         alt: "Mezoterapia NCTF 135HA",
-                        price: "300 zł",
+                        price: "600 zł",
                         title: "Mezoterapia NCTF 135HA",
                         lessons: "20 Lessons",
                         students: "51 Students",
