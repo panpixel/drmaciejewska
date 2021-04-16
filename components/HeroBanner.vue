@@ -27,7 +27,7 @@
                                 </n-link>
                             </div>
                             <div class="info">
-                                <span class="price">500 zł</span>
+                                <span class="price">790 zł</span>
                                <h3 class="title">
                                     <n-link to="/powiekszanie-ust">Powiększanie ust</n-link>
                                 </h3>

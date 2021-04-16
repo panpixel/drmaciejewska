@@ -59,14 +59,14 @@
                     {
                         imgSrc: "/images/zabiegi/bruksizm-medycyna-estetyczna-drmaciejewska.jpg",
                         alt: "Bruksizm",
-                        price: "790 zł",
+                        price: "od 790 zł",
                         title: "Bruksizm",
                         lessons: "20 Lessons",
                         students: "51 Students",
                         desc: "Bruksizm to podświadome (mimowolne) zgrzytanie i zaciskanie zębów ..."
                     },
                     {
-                        imgSrc: "/images/courses/385/course-2.jpg",
+                        imgSrc: "/images/zabiegi/kwas-hialuronowy-estetyczna-drmaciejewska.jpg",
                         alt: "Kwas hialuronowy",
                         price: "od 750 zł",
                         title: "Kwas hialuronowy",
@@ -75,10 +75,10 @@
                         desc: "Kwas hialuronowy jest naturalną substancją występującą w naszej skórze …"
                     },
                     {
-                        imgSrc: "/images/courses/385/course-3.jpg",
+                        imgSrc: "/images/zabiegi/leczenie-nadpotliwosci-estetyczna-drmacejewska.jpg",
                         alt: "Leczenie Nadpotliwości",
-                        price: "1500 zł",
-                        title: "Leczenie Nadpotliwości",
+                        price: "od 1500 zł",
+                        title: "Nadpotliwość",
                         lessons: "16 Lessons",
                         students: "57 Students",
                         desc: "Właściwą funkcją organizmu jest wydzielanie potu ale jego nadmiar jest bardzo kłopotliwy …"
