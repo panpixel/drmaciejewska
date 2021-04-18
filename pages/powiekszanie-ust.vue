@@ -24,7 +24,7 @@
             </div>
         </div>
 
-        <CourseDetailsTab />
+        <ZabiegPowiekszanieUst />
 
         
 
@@ -38,8 +38,7 @@
         components: {
             HeaderStyleTwo: () => import('@/components/HeaderStyleTwo'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            CourseDetailsTab: () => import('@/components/CourseDetailsTab'),
-           
+            ZabiegPowiekszanieUst: () => import('@/components/ZabiegPowiekszanieUst'),           
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },
 

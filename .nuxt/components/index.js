@@ -122,6 +122,7 @@ export { default as VideoCompanionship } from '../..\\components\\VideoCompanion
 export { default as VideoPopUp } from '../..\\components\\VideoPopUp.vue'
 export { default as VideoStyleOne } from '../..\\components\\VideoStyleOne.vue'
 export { default as VideoStyleTwo } from '../..\\components\\VideoStyleTwo.vue'
+export { default as ZabiegPowiekszanieUst } from '../..\\components\\ZabiegPowiekszanieUst.vue'
 export { default as ZoomMeetingPost } from '../..\\components\\ZoomMeetingPost.vue'
 
 export const LazyAboutApp = import('../..\\components\\AboutApp.vue' /* webpackChunkName: "components_AboutApp" */).then(c => c.default || c)
@@ -248,4 +249,5 @@ export const LazyVideoCompanionship = import('../..\\components\\VideoCompanions
 export const LazyVideoPopUp = import('../..\\components\\VideoPopUp.vue' /* webpackChunkName: "components_VideoPopUp" */).then(c => c.default || c)
 export const LazyVideoStyleOne = import('../..\\components\\VideoStyleOne.vue' /* webpackChunkName: "components_VideoStyleOne" */).then(c => c.default || c)
 export const LazyVideoStyleTwo = import('../..\\components\\VideoStyleTwo.vue' /* webpackChunkName: "components_VideoStyleTwo" */).then(c => c.default || c)
+export const LazyZabiegPowiekszanieUst = import('../..\\components\\ZabiegPowiekszanieUst.vue' /* webpackChunkName: "components_ZabiegPowiekszanieUst" */).then(c => c.default || c)
 export const LazyZoomMeetingPost = import('../..\\components\\ZoomMeetingPost.vue' /* webpackChunkName: "components_ZoomMeetingPost" */).then(c => c.default || c)

@@ -5,8 +5,8 @@
                 <div class="col-lg-6 order-lg-1 order-2">
                     <div class="about-content mt-sm-50 mt-xs-50">
                         <span class="sub-title">Medycyna <strong>Estetyczna</strong></span>
-                        <h2 class="title">Czym zajmuje się <span>Medycyna Estetyczna?</span></h2>
-                        <p>Zapraszamy Państwa do naszej kliniki w Dąbrowie Górniczej. </p>
+                        <h2 class="title">CLINICA <span>Dąbrowa Górnicza</span></h2>
+                        <p>Nasza klinika ma swoją siedzibę w funkcjonującej od kilkudziesięciu lat poradni stomatologicznej „Clinica”. Wkładamy wiele wysiłku, aby świadczyć usługi na jak najwyższym poziomie przy zachowaniu wszelkich zasad bezpieczeństwa oraz pełnej dyskrecji.</p>
                       
                     </div>
                 </div>
