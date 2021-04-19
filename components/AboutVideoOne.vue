@@ -1,5 +1,5 @@
 <template>
-    <div class="about-video-section section-padding-top section-padding-bottom-160" :class="addClassName">
+    <div class="about-video-section  section-padding-bottom-160" style="padding-top:80px;" >
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-8">
@@ -26,11 +26,17 @@
 
                 <div class="col-lg-4">
                     <div class="about-content mt-sm-50 mt-xs-50">
-                        <span class="sub-title">Najnowocześniejsze produkty</span>
-                        <h2 class="title">Clinica <span>Dąbrowa Górnicza</span> </h2>
-                        <p>Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <span class="sub-title">DR JOANNA MACIEJEWSKA </span>
+                        <h2 class="title">MEDYCYNA ESTETYCZNA <span>Dąbrowa Górnicza</span> </h2>
+                        <p>MEDYCYNA ESTETYCZNA DR JOANNA MACIEJEWSKA ma swoją siedzibę w funkcjonującej od kilkudziesięciu lat poradni stomatologicznej „Clinica”. </p>
                         
                     </div>
+                </div>
+                <div class="col-lg-12" style="padding-top:100px;">
+                <p>Wkładamy wiele wysiłku, aby świadczyć usługi na jak najwyższym poziomie przy zachowaniu wszelkich zasad bezpieczeństwa oraz pełnej dyskrecji. Stawiamy przede wszystkim na <strong>jakość i bezpieczeństwo</strong>, 
+                dlatego stosujemy wyłącznie <strong>oryginalne preparaty</strong> prosto od krajowych dystrybutorów, aby mieć pewność przebadanego składu oraz kontrolowanego procesu produkcyjnego.</p>
+               <p>Podczas terapii autologicznych używamy jedynie certyfikowanych probówek <strong>In vivo polskiej firmy KayMed</strong> co przekłada się na znakomite efekty terapii przeprowadzanych w naszym gabinecie.</p>
+               
                 </div>
             </div>
         </div>

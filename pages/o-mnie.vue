@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageBannerOne bgImg="backgroundImage: url('/images/page-banner/dabrowagornicza-drmaciejewska.jpg')" title="Dobry wygląd jest naszym celem." />
+        <PageBannerOne bgImg="backgroundImage: url('/images/page-banner/dabrowagornicza-drmaciejewska.jpg')" title="DOBRY WYGLĄD JEST NASZYM CELEM" />
 
         <AboutUsOne />
 
