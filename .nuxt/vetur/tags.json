@@ -749,6 +749,12 @@
   "LazyZoomMeetingPost": {
     "description": "Auto imported from components/ZoomMeetingPost.vue"
   },
+  "ZabiegBruksizm": {
+    "description": "Auto imported from components/zabiegi/ZabiegBruksizm.vue"
+  },
+  "LazyZabiegBruksizm": {
+    "description": "Auto imported from components/zabiegi/ZabiegBruksizm.vue"
+  },
   "ZabiegPowiekszanieUst": {
     "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"
   },

@@ -14,6 +14,13 @@
     "_name": "_532f15bc"
   },
   {
+    "name": "bruksizm",
+    "path": "/bruksizm",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\bruksizm.vue",
+    "chunkName": "pages/bruksizm",
+    "_name": "_7841974e"
+  },
+  {
     "name": "business",
     "path": "/business",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\business.vue",

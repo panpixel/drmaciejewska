@@ -25,8 +25,8 @@
                             </n-link>
                         </li>
                         <li>
-                            <n-link to="/burksizm">
-                                <span class="menu-text">Burksizm</span>
+                            <n-link to="/bruksizm">
+                                <span class="menu-text">Bruksizm</span>
                             </n-link>
                         </li>
                        
