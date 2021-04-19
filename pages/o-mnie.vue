@@ -9,11 +9,13 @@
 
         <AboutUsOne />
 
-        <AboutVideoOne addClassName="pt-0" />
+        <AboutVideoOne />
+
+        <CallToActionOne addClassName="bg-f8f8f8 pt-50" />
 
         <TestimonialStyleTwo />
 
-        <CallToActionOne addClassName="bg-f8f8f8 pt-0" />
+        
 
 
         <FooterStyleOne addClassName="light-color" addBackgroundColor="bg-navy-blue" />

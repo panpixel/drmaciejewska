@@ -45,7 +45,7 @@
 
 <script>
     export default {
-        props: ['addClassName'],
+       
 
         components: {
             ShapeWithAnimation: () => import('@/components/ShapeWithAnimation'),
