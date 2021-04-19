@@ -37,9 +37,14 @@
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },
 
-        head() {
+         head() {
             return {
-                title: 'O mnie'
+                title: 'Dr Joanna Maciejewska - zapewnie realne efekty',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Jestem lekarzem dentystą oraz lekarzem medycyny estetycznej. Od kilkunastu lat pomagam moim pacjentom z różnymi problemami stomatologicznymi, a teraz również z problemami natury estetycznej.'
+                        }]
             }
         },
     };

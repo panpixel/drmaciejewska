@@ -43,7 +43,12 @@
 
         head() {
             return {
-                title: 'Membership Levels'
+                title: 'Medycyna estetyczna cennik - dr Joanna Maciejewska',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Kwas hialuronowy, Botoks, nici pdo, mezoterapia, endermologia, terapie autologiczne, zabiegi Jalupro. Medycyna estetyczna cennik.'
+                        }]
             }
         },
     };

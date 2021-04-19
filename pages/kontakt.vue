@@ -109,7 +109,12 @@
 
         head() {
             return {
-                title: 'Contact Me'
+                title: 'Kontakt do Medycyna Estetyczna - dr Joanna Maciejewska',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Nigdy nie jest za późno, aby zacząć dbać o swoje piękno! Nie odkładaj jednak tego na jutro – zacznij od dziś!'
+                        }]
             }
         },
     };

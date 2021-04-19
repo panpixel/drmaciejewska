@@ -41,10 +41,15 @@
 
         head() {
             return {
-                title: 'Medycyna Estetyczna - dr Joanna Maciejewska'
+                title: 'Medycyna Estetyczna - dr Joanna Maciejewska',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Zabiegi medycyny estetycznej pozwalają zniwelować zmarszczki, usunąć blizny oraz pozbyć się innych defektów urody, które w sposób negatywny oddziałują na samopoczucie i samoocenę pacjenta. '
+                        }]
             }
         },
     };
 </script>
 
-
+      
