@@ -42,9 +42,14 @@
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },
 
-        head() {
+         head() {
             return {
-                title: 'Powiększanie ust'
+                title: 'Powiększanie ust - Zabiegi dr Joanna Maciejewska',
+                meta: [ {
+                          hid: 'description',
+                          name: 'description',
+                          content: 'Pełne i wydatne usta o regularnym konturze to marzenie wielu kobiet. Obecnie jedną z najpopularniejszych metod poprawiania ...'
+                        }]
             }
         },
     };
