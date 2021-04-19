@@ -44,7 +44,7 @@
 
          head() {
             return {
-                title: 'Powiększanie ust - Zabiegi dr Joanna Maciejewska',
+                title: 'Powiększanie ust - Zabiegi',
                 meta: [ {
                           hid: 'description',
                           name: 'description',

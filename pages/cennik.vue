@@ -43,7 +43,7 @@
 
         head() {
             return {
-                title: 'Medycyna estetyczna cennik - dr Joanna Maciejewska',
+                title: 'Medycyna estetyczna cennik',
                 meta: [ {
                           hid: 'description',
                           name: 'description',

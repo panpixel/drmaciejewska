@@ -109,7 +109,7 @@
 
         head() {
             return {
-                title: 'Kontakt do Medycyna Estetyczna - dr Joanna Maciejewska',
+                title: 'Kontakt do Medycyna Estetyczna',
                 meta: [ {
                           hid: 'description',
                           name: 'description',

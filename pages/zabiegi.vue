@@ -90,7 +90,7 @@
 
         head() {
             return {
-                title: 'Zabiegi Medycyna Estetyczna - dr Joanna Maciejewska',
+                title: 'Zabiegi Medycyna Estetyczna',
                 meta: [ {
                           hid: 'description',
                           name: 'description',
