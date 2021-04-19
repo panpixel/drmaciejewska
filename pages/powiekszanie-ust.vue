@@ -38,7 +38,7 @@
         components: {
             HeaderStyleTwo: () => import('@/components/HeaderStyleTwo'),
             OffCanvasMobileMenu: () => import('@/components/OffCanvasMobileMenu'),
-            ZabiegPowiekszanieUst: () => import('@/components/ZabiegPowiekszanieUst'),           
+            ZabiegPowiekszanieUst: () => import('@/components/zabiegi/ZabiegPowiekszanieUst'),           
             FooterStyleOne: () => import('@/components/FooterStyleOne'),
         },
 

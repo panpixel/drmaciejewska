@@ -33,14 +33,14 @@
                     <div class="col max-mb-30" data-aos="fade-up" v-for="course in courseData.coursePostItem" :key="course.id">
                         <div class="course-2">
                             <div class="thumbnail">
-                                <n-link to="/" class="image">
+                                 <a :href=course.link :title="course.title">
                                     <img :src="course.image" :alt="course.title + 'Thumbnail'">
-                                </n-link>
+                                </a>
                             </div>
                             <div class="info">
                                 <span class="price">{{ course.price }}</span>
                                  <h3 class="title">
-                                    <n-link to="/">{{ course.title }}</n-link>
+                                    <a :href=course.link>{{ course.title }}</a>
                                 </h3>
                                 
                             </div>

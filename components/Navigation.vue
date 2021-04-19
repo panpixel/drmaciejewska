@@ -30,15 +30,11 @@
                         </n-link>
                     </li>
                     <li>
-                        <n-link to="/zabiegi/s">
-                            <span class="menu-text">Zabieg  03</span>
+                        <n-link to="/bruksizm">
+                            <span class="menu-text">Bruksizm</span>
                         </n-link>
                     </li>
-                    <li>
-                        <n-link to="/zabiegi/">
-                            <span class="menu-text">Zabieg 03</span>
-                        </n-link>
-                    </li>
+                   
                     
                 </ul>
             </li>

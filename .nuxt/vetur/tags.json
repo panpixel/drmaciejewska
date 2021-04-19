@@ -743,16 +743,16 @@
   "LazyVideoStyleTwo": {
     "description": "Auto imported from components/VideoStyleTwo.vue"
   },
-  "ZabiegPowiekszanieUst": {
-    "description": "Auto imported from components/ZabiegPowiekszanieUst.vue"
-  },
-  "LazyZabiegPowiekszanieUst": {
-    "description": "Auto imported from components/ZabiegPowiekszanieUst.vue"
-  },
   "ZoomMeetingPost": {
     "description": "Auto imported from components/ZoomMeetingPost.vue"
   },
   "LazyZoomMeetingPost": {
     "description": "Auto imported from components/ZoomMeetingPost.vue"
+  },
+  "ZabiegPowiekszanieUst": {
+    "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"
+  },
+  "LazyZabiegPowiekszanieUst": {
+    "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"
   }
 }
