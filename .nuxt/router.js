@@ -15,6 +15,7 @@ const _0fd3998e = () => interopDefault(import('..\\pages\\gym-coaching.vue' /* w
 const _3ffd1d4a = () => interopDefault(import('..\\pages\\health-coaching.vue' /* webpackChunkName: "pages/health-coaching" */))
 const _ef85893c = () => interopDefault(import('..\\pages\\kitchen-coach.vue' /* webpackChunkName: "pages/kitchen-coach" */))
 const _702e4c91 = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
+const _2d879ece = () => interopDefault(import('..\\pages\\kwas-hialuronowy.vue' /* webpackChunkName: "pages/kwas-hialuronowy" */))
 const _759882b4 = () => interopDefault(import('..\\pages\\login-register.vue' /* webpackChunkName: "pages/login-register" */))
 const _1d0f969f = () => interopDefault(import('..\\pages\\modern-schooling.vue' /* webpackChunkName: "pages/modern-schooling" */))
 const _5964fb82 = () => interopDefault(import('..\\pages\\multimedia-pedagogy.vue' /* webpackChunkName: "pages/multimedia-pedagogy" */))
@@ -101,6 +102,10 @@ export const routerOptions = {
     path: "/kontakt",
     component: _702e4c91,
     name: "kontakt"
+  }, {
+    path: "/kwas-hialuronowy",
+    component: _2d879ece,
+    name: "kwas-hialuronowy"
   }, {
     path: "/login-register",
     component: _759882b4,

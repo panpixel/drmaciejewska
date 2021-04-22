@@ -91,8 +91,7 @@
 <script>
     export default {
         components: {
-            CourseDetailsSidebar: () => import('~/components/CourseDetailsSidebar'),
-            CourseInstructor: () => import('~/components/CourseInstructor'),
+            CourseDetailsSidebar: () => import('~/components/BruksizmDetailsSidebar'),            
         },
         data () {
             return {

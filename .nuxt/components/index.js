@@ -14,6 +14,7 @@ export { default as BlogStyleTwo } from '../..\\components\\BlogStyleTwo.vue'
 export { default as BrandLogoCarousel } from '../..\\components\\BrandLogoCarousel.vue'
 export { default as BrandLogoCarouselThree } from '../..\\components\\BrandLogoCarouselThree.vue'
 export { default as BrandLogoCarouselTwo } from '../..\\components\\BrandLogoCarouselTwo.vue'
+export { default as BruksizmDetailsSidebar } from '../..\\components\\BruksizmDetailsSidebar.vue'
 export { default as CallToActionFour } from '../..\\components\\CallToActionFour.vue'
 export { default as CallToActionOne } from '../..\\components\\CallToActionOne.vue'
 export { default as CallToActionThree } from '../..\\components\\CallToActionThree.vue'
@@ -73,6 +74,7 @@ export { default as InstagramStyleOne } from '../..\\components\\InstagramStyleO
 export { default as InstagramStyleTwo } from '../..\\components\\InstagramStyleTwo.vue'
 export { default as InstructorRegisterForm } from '../..\\components\\InstructorRegisterForm.vue'
 export { default as KitchenOnlineCourse } from '../..\\components\\KitchenOnlineCourse.vue'
+export { default as KwasHialuronowyDetailsSidebar } from '../..\\components\\KwasHialuronowyDetailsSidebar.vue'
 export { default as LatestOnlineCourses } from '../..\\components\\LatestOnlineCourses.vue'
 export { default as LearnGalleryItem } from '../..\\components\\LearnGalleryItem.vue'
 export { default as LearnGym } from '../..\\components\\LearnGym.vue'
@@ -124,6 +126,7 @@ export { default as VideoStyleOne } from '../..\\components\\VideoStyleOne.vue'
 export { default as VideoStyleTwo } from '../..\\components\\VideoStyleTwo.vue'
 export { default as ZoomMeetingPost } from '../..\\components\\ZoomMeetingPost.vue'
 export { default as ZabiegBruksizm } from '../..\\components\\zabiegi\\ZabiegBruksizm.vue'
+export { default as ZabiegKwasHialuronowy } from '../..\\components\\zabiegi\\ZabiegKwasHialuronowy.vue'
 export { default as ZabiegPowiekszanieUst } from '../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue'
 
 export const LazyAboutApp = import('../..\\components\\AboutApp.vue' /* webpackChunkName: "components_AboutApp" */).then(c => c.default || c)
@@ -142,6 +145,7 @@ export const LazyBlogStyleTwo = import('../..\\components\\BlogStyleTwo.vue' /* 
 export const LazyBrandLogoCarousel = import('../..\\components\\BrandLogoCarousel.vue' /* webpackChunkName: "components_BrandLogoCarousel" */).then(c => c.default || c)
 export const LazyBrandLogoCarouselThree = import('../..\\components\\BrandLogoCarouselThree.vue' /* webpackChunkName: "components_BrandLogoCarouselThree" */).then(c => c.default || c)
 export const LazyBrandLogoCarouselTwo = import('../..\\components\\BrandLogoCarouselTwo.vue' /* webpackChunkName: "components_BrandLogoCarouselTwo" */).then(c => c.default || c)
+export const LazyBruksizmDetailsSidebar = import('../..\\components\\BruksizmDetailsSidebar.vue' /* webpackChunkName: "components_BruksizmDetailsSidebar" */).then(c => c.default || c)
 export const LazyCallToActionFour = import('../..\\components\\CallToActionFour.vue' /* webpackChunkName: "components_CallToActionFour" */).then(c => c.default || c)
 export const LazyCallToActionOne = import('../..\\components\\CallToActionOne.vue' /* webpackChunkName: "components_CallToActionOne" */).then(c => c.default || c)
 export const LazyCallToActionThree = import('../..\\components\\CallToActionThree.vue' /* webpackChunkName: "components_CallToActionThree" */).then(c => c.default || c)
@@ -201,6 +205,7 @@ export const LazyInstagramStyleOne = import('../..\\components\\InstagramStyleOn
 export const LazyInstagramStyleTwo = import('../..\\components\\InstagramStyleTwo.vue' /* webpackChunkName: "components_InstagramStyleTwo" */).then(c => c.default || c)
 export const LazyInstructorRegisterForm = import('../..\\components\\InstructorRegisterForm.vue' /* webpackChunkName: "components_InstructorRegisterForm" */).then(c => c.default || c)
 export const LazyKitchenOnlineCourse = import('../..\\components\\KitchenOnlineCourse.vue' /* webpackChunkName: "components_KitchenOnlineCourse" */).then(c => c.default || c)
+export const LazyKwasHialuronowyDetailsSidebar = import('../..\\components\\KwasHialuronowyDetailsSidebar.vue' /* webpackChunkName: "components_KwasHialuronowyDetailsSidebar" */).then(c => c.default || c)
 export const LazyLatestOnlineCourses = import('../..\\components\\LatestOnlineCourses.vue' /* webpackChunkName: "components_LatestOnlineCourses" */).then(c => c.default || c)
 export const LazyLearnGalleryItem = import('../..\\components\\LearnGalleryItem.vue' /* webpackChunkName: "components_LearnGalleryItem" */).then(c => c.default || c)
 export const LazyLearnGym = import('../..\\components\\LearnGym.vue' /* webpackChunkName: "components_LearnGym" */).then(c => c.default || c)
@@ -252,4 +257,5 @@ export const LazyVideoStyleOne = import('../..\\components\\VideoStyleOne.vue' /
 export const LazyVideoStyleTwo = import('../..\\components\\VideoStyleTwo.vue' /* webpackChunkName: "components_VideoStyleTwo" */).then(c => c.default || c)
 export const LazyZoomMeetingPost = import('../..\\components\\ZoomMeetingPost.vue' /* webpackChunkName: "components_ZoomMeetingPost" */).then(c => c.default || c)
 export const LazyZabiegBruksizm = import('../..\\components\\zabiegi\\ZabiegBruksizm.vue' /* webpackChunkName: "components_zabiegi/ZabiegBruksizm" */).then(c => c.default || c)
+export const LazyZabiegKwasHialuronowy = import('../..\\components\\zabiegi\\ZabiegKwasHialuronowy.vue' /* webpackChunkName: "components_zabiegi/ZabiegKwasHialuronowy" */).then(c => c.default || c)
 export const LazyZabiegPowiekszanieUst = import('../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue' /* webpackChunkName: "components_zabiegi/ZabiegPowiekszanieUst" */).then(c => c.default || c)

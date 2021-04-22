@@ -95,6 +95,12 @@
   "LazyBrandLogoCarouselTwo": {
     "description": "Auto imported from components/BrandLogoCarouselTwo.vue"
   },
+  "BruksizmDetailsSidebar": {
+    "description": "Auto imported from components/BruksizmDetailsSidebar.vue"
+  },
+  "LazyBruksizmDetailsSidebar": {
+    "description": "Auto imported from components/BruksizmDetailsSidebar.vue"
+  },
   "CallToActionFour": {
     "description": "Auto imported from components/CallToActionFour.vue"
   },
@@ -449,6 +455,12 @@
   "LazyKitchenOnlineCourse": {
     "description": "Auto imported from components/KitchenOnlineCourse.vue"
   },
+  "KwasHialuronowyDetailsSidebar": {
+    "description": "Auto imported from components/KwasHialuronowyDetailsSidebar.vue"
+  },
+  "LazyKwasHialuronowyDetailsSidebar": {
+    "description": "Auto imported from components/KwasHialuronowyDetailsSidebar.vue"
+  },
   "LatestOnlineCourses": {
     "description": "Auto imported from components/LatestOnlineCourses.vue"
   },
@@ -754,6 +766,12 @@
   },
   "LazyZabiegBruksizm": {
     "description": "Auto imported from components/zabiegi/ZabiegBruksizm.vue"
+  },
+  "ZabiegKwasHialuronowy": {
+    "description": "Auto imported from components/zabiegi/ZabiegKwasHialuronowy.vue"
+  },
+  "LazyZabiegKwasHialuronowy": {
+    "description": "Auto imported from components/zabiegi/ZabiegKwasHialuronowy.vue"
   },
   "ZabiegPowiekszanieUst": {
     "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"

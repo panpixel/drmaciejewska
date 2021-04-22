@@ -29,6 +29,11 @@
                                 <span class="menu-text">Bruksizm</span>
                             </n-link>
                         </li>
+                         <li>
+                            <n-link to="/kwas-hialuronowy">
+                                <span class="menu-text">Kwas hialuronowy</span>
+                            </n-link>
+                        </li>
                        
                     </ul>
                 </li>
