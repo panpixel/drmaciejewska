@@ -479,6 +479,12 @@
   "LazyLearnGym": {
     "description": "Auto imported from components/LearnGym.vue"
   },
+  "LeczenieNadpotliwosciDetailsSidebar": {
+    "description": "Auto imported from components/LeczenieNadpotliwosciDetailsSidebar.vue"
+  },
+  "LazyLeczenieNadpotliwosciDetailsSidebar": {
+    "description": "Auto imported from components/LeczenieNadpotliwosciDetailsSidebar.vue"
+  },
   "LeranerGallery": {
     "description": "Auto imported from components/LeranerGallery.vue"
   },
@@ -772,6 +778,12 @@
   },
   "LazyZabiegKwasHialuronowy": {
     "description": "Auto imported from components/zabiegi/ZabiegKwasHialuronowy.vue"
+  },
+  "ZabiegLeczenieNadpotliwosci": {
+    "description": "Auto imported from components/zabiegi/ZabiegLeczenieNadpotliwosci.vue"
+  },
+  "LazyZabiegLeczenieNadpotliwosci": {
+    "description": "Auto imported from components/zabiegi/ZabiegLeczenieNadpotliwosci.vue"
   },
   "ZabiegPowiekszanieUst": {
     "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"

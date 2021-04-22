@@ -34,6 +34,11 @@
                                 <span class="menu-text">Kwas hialuronowy</span>
                             </n-link>
                         </li>
+                        <li>
+                            <n-link to="/leczenie-nadpotliwosci">
+                            <span class="menu-text">Leczenie Nadpotliwości</span>
+                           </n-link>
+                    </li>
                        
                     </ul>
                 </li>
