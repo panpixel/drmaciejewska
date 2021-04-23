@@ -65,6 +65,11 @@
                             <span class="menu-text">Botoks</span>
                         </n-link>
                     </li>
+                      <li>
+                        <n-link to="/dr-cyj-hair-filler">
+                            <span class="menu-text">DR. CYJ HAIR FILLER</span>
+                        </n-link>
+                    </li>
                 </ul>
             </li>
             <li>

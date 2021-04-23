@@ -233,6 +233,12 @@
   "LazyCurrentSignatureCourse": {
     "description": "Auto imported from components/CurrentSignatureCourse.vue"
   },
+  "DrCyjHairFillerDetailsSidebar": {
+    "description": "Auto imported from components/DrCyjHairFillerDetailsSidebar.vue"
+  },
+  "LazyDrCyjHairFillerDetailsSidebar": {
+    "description": "Auto imported from components/DrCyjHairFillerDetailsSidebar.vue"
+  },
   "EventItem": {
     "description": "Auto imported from components/EventItem.vue"
   },
@@ -796,6 +802,12 @@
   },
   "LazyZabiegBruksizm": {
     "description": "Auto imported from components/zabiegi/ZabiegBruksizm.vue"
+  },
+  "ZabiegDrCyjHairFiller": {
+    "description": "Auto imported from components/zabiegi/ZabiegDrCyjHairFiller.vue"
+  },
+  "LazyZabiegDrCyjHairFiller": {
+    "description": "Auto imported from components/zabiegi/ZabiegDrCyjHairFiller.vue"
   },
   "ZabiegKwasHialuronowy": {
     "description": "Auto imported from components/zabiegi/ZabiegKwasHialuronowy.vue"

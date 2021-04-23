@@ -63,6 +63,13 @@
     "_name": "_e406c86e"
   },
   {
+    "name": "dr-cyj-hair-filler",
+    "path": "/dr-cyj-hair-filler",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\dr-cyj-hair-filler.vue",
+    "chunkName": "pages/dr-cyj-hair-filler",
+    "_name": "_1fd6b982"
+  },
+  {
     "name": "gym-coaching",
     "path": "/gym-coaching",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\gym-coaching.vue",

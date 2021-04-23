@@ -110,7 +110,7 @@
 <script>
     export default {
         components: {
-            CourseDetailsSidebar: () => import('~/components/LiftingNicmiPdoDetailsSidebar'),            
+            CourseDetailsSidebar: () => import('~/components/ToksynaBotulinowaDetailsSidebar'),            
         },
         data () {
             return {

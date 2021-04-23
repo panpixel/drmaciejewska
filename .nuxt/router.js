@@ -12,6 +12,7 @@ const _19a7863a = () => interopDefault(import('..\\pages\\cennik.vue' /* webpack
 const _980041ec = () => interopDefault(import('..\\pages\\contact-us.vue' /* webpackChunkName: "pages/contact-us" */))
 const _57ba060f = () => interopDefault(import('..\\pages\\course-portal.vue' /* webpackChunkName: "pages/course-portal" */))
 const _e406c86e = () => interopDefault(import('..\\pages\\distant-learning.vue' /* webpackChunkName: "pages/distant-learning" */))
+const _1fd6b982 = () => interopDefault(import('..\\pages\\dr-cyj-hair-filler.vue' /* webpackChunkName: "pages/dr-cyj-hair-filler" */))
 const _0fd3998e = () => interopDefault(import('..\\pages\\gym-coaching.vue' /* webpackChunkName: "pages/gym-coaching" */))
 const _3ffd1d4a = () => interopDefault(import('..\\pages\\health-coaching.vue' /* webpackChunkName: "pages/health-coaching" */))
 const _ef85893c = () => interopDefault(import('..\\pages\\kitchen-coach.vue' /* webpackChunkName: "pages/kitchen-coach" */))
@@ -95,6 +96,10 @@ export const routerOptions = {
     path: "/distant-learning",
     component: _e406c86e,
     name: "distant-learning"
+  }, {
+    path: "/dr-cyj-hair-filler",
+    component: _1fd6b982,
+    name: "dr-cyj-hair-filler"
   }, {
     path: "/gym-coaching",
     component: _0fd3998e,

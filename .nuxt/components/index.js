@@ -37,6 +37,7 @@ export { default as CourseStyleThree } from '../..\\components\\CourseStyleThree
 export { default as CourseStyleTwo } from '../..\\components\\CourseStyleTwo.vue'
 export { default as CtaStyleOne } from '../..\\components\\CtaStyleOne.vue'
 export { default as CurrentSignatureCourse } from '../..\\components\\CurrentSignatureCourse.vue'
+export { default as DrCyjHairFillerDetailsSidebar } from '../..\\components\\DrCyjHairFillerDetailsSidebar.vue'
 export { default as EventItem } from '../..\\components\\EventItem.vue'
 export { default as EventItemGridStyle } from '../..\\components\\EventItemGridStyle.vue'
 export { default as EventStyleTwo } from '../..\\components\\EventStyleTwo.vue'
@@ -131,6 +132,7 @@ export { default as VideoStyleOne } from '../..\\components\\VideoStyleOne.vue'
 export { default as VideoStyleTwo } from '../..\\components\\VideoStyleTwo.vue'
 export { default as ZoomMeetingPost } from '../..\\components\\ZoomMeetingPost.vue'
 export { default as ZabiegBruksizm } from '../..\\components\\zabiegi\\ZabiegBruksizm.vue'
+export { default as ZabiegDrCyjHairFiller } from '../..\\components\\zabiegi\\ZabiegDrCyjHairFiller.vue'
 export { default as ZabiegKwasHialuronowy } from '../..\\components\\zabiegi\\ZabiegKwasHialuronowy.vue'
 export { default as ZabiegLeczenieNadpotliwosci } from '../..\\components\\zabiegi\\ZabiegLeczenieNadpotliwosci.vue'
 export { default as ZabiegLiftingNicmiPdo } from '../..\\components\\zabiegi\\ZabiegLiftingNicmiPdo.vue'
@@ -178,6 +180,7 @@ export const LazyCourseStyleThree = import('../..\\components\\CourseStyleThree.
 export const LazyCourseStyleTwo = import('../..\\components\\CourseStyleTwo.vue' /* webpackChunkName: "components_CourseStyleTwo" */).then(c => c.default || c)
 export const LazyCtaStyleOne = import('../..\\components\\CtaStyleOne.vue' /* webpackChunkName: "components_CtaStyleOne" */).then(c => c.default || c)
 export const LazyCurrentSignatureCourse = import('../..\\components\\CurrentSignatureCourse.vue' /* webpackChunkName: "components_CurrentSignatureCourse" */).then(c => c.default || c)
+export const LazyDrCyjHairFillerDetailsSidebar = import('../..\\components\\DrCyjHairFillerDetailsSidebar.vue' /* webpackChunkName: "components_DrCyjHairFillerDetailsSidebar" */).then(c => c.default || c)
 export const LazyEventItem = import('../..\\components\\EventItem.vue' /* webpackChunkName: "components_EventItem" */).then(c => c.default || c)
 export const LazyEventItemGridStyle = import('../..\\components\\EventItemGridStyle.vue' /* webpackChunkName: "components_EventItemGridStyle" */).then(c => c.default || c)
 export const LazyEventStyleTwo = import('../..\\components\\EventStyleTwo.vue' /* webpackChunkName: "components_EventStyleTwo" */).then(c => c.default || c)
@@ -272,6 +275,7 @@ export const LazyVideoStyleOne = import('../..\\components\\VideoStyleOne.vue' /
 export const LazyVideoStyleTwo = import('../..\\components\\VideoStyleTwo.vue' /* webpackChunkName: "components_VideoStyleTwo" */).then(c => c.default || c)
 export const LazyZoomMeetingPost = import('../..\\components\\ZoomMeetingPost.vue' /* webpackChunkName: "components_ZoomMeetingPost" */).then(c => c.default || c)
 export const LazyZabiegBruksizm = import('../..\\components\\zabiegi\\ZabiegBruksizm.vue' /* webpackChunkName: "components_zabiegi/ZabiegBruksizm" */).then(c => c.default || c)
+export const LazyZabiegDrCyjHairFiller = import('../..\\components\\zabiegi\\ZabiegDrCyjHairFiller.vue' /* webpackChunkName: "components_zabiegi/ZabiegDrCyjHairFiller" */).then(c => c.default || c)
 export const LazyZabiegKwasHialuronowy = import('../..\\components\\zabiegi\\ZabiegKwasHialuronowy.vue' /* webpackChunkName: "components_zabiegi/ZabiegKwasHialuronowy" */).then(c => c.default || c)
 export const LazyZabiegLeczenieNadpotliwosci = import('../..\\components\\zabiegi\\ZabiegLeczenieNadpotliwosci.vue' /* webpackChunkName: "components_zabiegi/ZabiegLeczenieNadpotliwosci" */).then(c => c.default || c)
 export const LazyZabiegLiftingNicmiPdo = import('../..\\components\\zabiegi\\ZabiegLiftingNicmiPdo.vue' /* webpackChunkName: "components_zabiegi/ZabiegLiftingNicmiPdo" */).then(c => c.default || c)
