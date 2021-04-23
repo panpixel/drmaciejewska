@@ -743,6 +743,12 @@
   "LazyTestimonialStyleTwo": {
     "description": "Auto imported from components/TestimonialStyleTwo.vue"
   },
+  "ToksynaBotulinowaDetailsSidebar": {
+    "description": "Auto imported from components/ToksynaBotulinowaDetailsSidebar.vue"
+  },
+  "LazyToksynaBotulinowaDetailsSidebar": {
+    "description": "Auto imported from components/ToksynaBotulinowaDetailsSidebar.vue"
+  },
   "UpcomingEvents": {
     "description": "Auto imported from components/UpcomingEvents.vue"
   },
@@ -826,5 +832,11 @@
   },
   "LazyZabiegPowiekszanieUst": {
     "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"
+  },
+  "ZabiegToksynaBotulinowa": {
+    "description": "Auto imported from components/zabiegi/ZabiegToksynaBotulinowa.vue"
+  },
+  "LazyZabiegToksynaBotulinowa": {
+    "description": "Auto imported from components/zabiegi/ZabiegToksynaBotulinowa.vue"
   }
 }

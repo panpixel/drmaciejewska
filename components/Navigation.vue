@@ -60,6 +60,11 @@
                             <span class="menu-text">Lifting nićmi PDO</span>
                         </n-link>
                     </li>
+                       <li>
+                        <n-link to="/botoks">
+                            <span class="menu-text">Botoks</span>
+                        </n-link>
+                    </li>
                 </ul>
             </li>
             <li>

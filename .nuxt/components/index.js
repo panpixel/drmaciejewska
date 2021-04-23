@@ -122,6 +122,7 @@ export { default as TestimonialStyleSix } from '../..\\components\\TestimonialSt
 export { default as TestimonialStyleTen } from '../..\\components\\TestimonialStyleTen.vue'
 export { default as TestimonialStyleThree } from '../..\\components\\TestimonialStyleThree.vue'
 export { default as TestimonialStyleTwo } from '../..\\components\\TestimonialStyleTwo.vue'
+export { default as ToksynaBotulinowaDetailsSidebar } from '../..\\components\\ToksynaBotulinowaDetailsSidebar.vue'
 export { default as UpcomingEvents } from '../..\\components\\UpcomingEvents.vue'
 export { default as VideoAbout } from '../..\\components\\VideoAbout.vue'
 export { default as VideoCompanionship } from '../..\\components\\VideoCompanionship.vue'
@@ -136,6 +137,7 @@ export { default as ZabiegLiftingNicmiPdo } from '../..\\components\\zabiegi\\Za
 export { default as ZabiegMezoterapia } from '../..\\components\\zabiegi\\ZabiegMezoterapia.vue'
 export { default as ZabiegOsoczeBogatoplytkowe } from '../..\\components\\zabiegi\\ZabiegOsoczeBogatoplytkowe.vue'
 export { default as ZabiegPowiekszanieUst } from '../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue'
+export { default as ZabiegToksynaBotulinowa } from '../..\\components\\zabiegi\\ZabiegToksynaBotulinowa.vue'
 
 export const LazyAboutApp = import('../..\\components\\AboutApp.vue' /* webpackChunkName: "components_AboutApp" */).then(c => c.default || c)
 export const LazyAboutCooking = import('../..\\components\\AboutCooking.vue' /* webpackChunkName: "components_AboutCooking" */).then(c => c.default || c)
@@ -261,6 +263,7 @@ export const LazyTestimonialStyleSix = import('../..\\components\\TestimonialSty
 export const LazyTestimonialStyleTen = import('../..\\components\\TestimonialStyleTen.vue' /* webpackChunkName: "components_TestimonialStyleTen" */).then(c => c.default || c)
 export const LazyTestimonialStyleThree = import('../..\\components\\TestimonialStyleThree.vue' /* webpackChunkName: "components_TestimonialStyleThree" */).then(c => c.default || c)
 export const LazyTestimonialStyleTwo = import('../..\\components\\TestimonialStyleTwo.vue' /* webpackChunkName: "components_TestimonialStyleTwo" */).then(c => c.default || c)
+export const LazyToksynaBotulinowaDetailsSidebar = import('../..\\components\\ToksynaBotulinowaDetailsSidebar.vue' /* webpackChunkName: "components_ToksynaBotulinowaDetailsSidebar" */).then(c => c.default || c)
 export const LazyUpcomingEvents = import('../..\\components\\UpcomingEvents.vue' /* webpackChunkName: "components_UpcomingEvents" */).then(c => c.default || c)
 export const LazyVideoAbout = import('../..\\components\\VideoAbout.vue' /* webpackChunkName: "components_VideoAbout" */).then(c => c.default || c)
 export const LazyVideoCompanionship = import('../..\\components\\VideoCompanionship.vue' /* webpackChunkName: "components_VideoCompanionship" */).then(c => c.default || c)
@@ -275,3 +278,4 @@ export const LazyZabiegLiftingNicmiPdo = import('../..\\components\\zabiegi\\Zab
 export const LazyZabiegMezoterapia = import('../..\\components\\zabiegi\\ZabiegMezoterapia.vue' /* webpackChunkName: "components_zabiegi/ZabiegMezoterapia" */).then(c => c.default || c)
 export const LazyZabiegOsoczeBogatoplytkowe = import('../..\\components\\zabiegi\\ZabiegOsoczeBogatoplytkowe.vue' /* webpackChunkName: "components_zabiegi/ZabiegOsoczeBogatoplytkowe" */).then(c => c.default || c)
 export const LazyZabiegPowiekszanieUst = import('../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue' /* webpackChunkName: "components_zabiegi/ZabiegPowiekszanieUst" */).then(c => c.default || c)
+export const LazyZabiegToksynaBotulinowa = import('../..\\components\\zabiegi\\ZabiegToksynaBotulinowa.vue' /* webpackChunkName: "components_zabiegi/ZabiegToksynaBotulinowa" */).then(c => c.default || c)

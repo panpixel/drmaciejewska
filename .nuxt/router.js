@@ -5,6 +5,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _1e8402b7 = () => interopDefault(import('..\\pages\\about-me.vue' /* webpackChunkName: "pages/about-me" */))
 const _532f15bc = () => interopDefault(import('..\\pages\\about-us-two.vue' /* webpackChunkName: "pages/about-us-two" */))
+const _7196d78f = () => interopDefault(import('..\\pages\\botoks.vue' /* webpackChunkName: "pages/botoks" */))
 const _7841974e = () => interopDefault(import('..\\pages\\bruksizm.vue' /* webpackChunkName: "pages/bruksizm" */))
 const _3f37c29f = () => interopDefault(import('..\\pages\\business.vue' /* webpackChunkName: "pages/business" */))
 const _19a7863a = () => interopDefault(import('..\\pages\\cennik.vue' /* webpackChunkName: "pages/cennik" */))
@@ -66,6 +67,10 @@ export const routerOptions = {
     path: "/about-us-two",
     component: _532f15bc,
     name: "about-us-two"
+  }, {
+    path: "/botoks",
+    component: _7196d78f,
+    name: "botoks"
   }, {
     path: "/bruksizm",
     component: _7841974e,

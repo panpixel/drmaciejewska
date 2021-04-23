@@ -55,6 +55,11 @@
                             <span class="menu-text">Lifting nićmi PDO</span>
                         </n-link>
                     </li>
+                    <li>
+                        <n-link to="/toksyna-botulinowa">
+                            <span class="menu-text">Toksyna Botulinowa</span>
+                        </n-link>
+                    </li>
                        
                     </ul>
                 </li>
