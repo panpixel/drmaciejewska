@@ -497,6 +497,12 @@
   "LazyMembershipLevelTable": {
     "description": "Auto imported from components/MembershipLevelTable.vue"
   },
+  "MezoterapiaDetailsSidebar": {
+    "description": "Auto imported from components/MezoterapiaDetailsSidebar.vue"
+  },
+  "LazyMezoterapiaDetailsSidebar": {
+    "description": "Auto imported from components/MezoterapiaDetailsSidebar.vue"
+  },
   "MobileNavigation": {
     "description": "Auto imported from components/MobileNavigation.vue"
   },
@@ -544,6 +550,12 @@
   },
   "LazyOnlineCoachingLessons": {
     "description": "Auto imported from components/OnlineCoachingLessons.vue"
+  },
+  "OsoczeDetailsSidebar": {
+    "description": "Auto imported from components/OsoczeDetailsSidebar.vue"
+  },
+  "LazyOsoczeDetailsSidebar": {
+    "description": "Auto imported from components/OsoczeDetailsSidebar.vue"
   },
   "PageBannerOne": {
     "description": "Auto imported from components/PageBannerOne.vue"
@@ -784,6 +796,18 @@
   },
   "LazyZabiegLeczenieNadpotliwosci": {
     "description": "Auto imported from components/zabiegi/ZabiegLeczenieNadpotliwosci.vue"
+  },
+  "ZabiegMezoterapia": {
+    "description": "Auto imported from components/zabiegi/ZabiegMezoterapia.vue"
+  },
+  "LazyZabiegMezoterapia": {
+    "description": "Auto imported from components/zabiegi/ZabiegMezoterapia.vue"
+  },
+  "ZabiegOsoczeBogatoplytkowe": {
+    "description": "Auto imported from components/zabiegi/ZabiegOsoczeBogatoplytkowe.vue"
+  },
+  "LazyZabiegOsoczeBogatoplytkowe": {
+    "description": "Auto imported from components/zabiegi/ZabiegOsoczeBogatoplytkowe.vue"
   },
   "ZabiegPowiekszanieUst": {
     "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"

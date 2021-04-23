@@ -81,6 +81,7 @@ export { default as LearnGym } from '../..\\components\\LearnGym.vue'
 export { default as LeczenieNadpotliwosciDetailsSidebar } from '../..\\components\\LeczenieNadpotliwosciDetailsSidebar.vue'
 export { default as LeranerGallery } from '../..\\components\\LeranerGallery.vue'
 export { default as MembershipLevelTable } from '../..\\components\\MembershipLevelTable.vue'
+export { default as MezoterapiaDetailsSidebar } from '../..\\components\\MezoterapiaDetailsSidebar.vue'
 export { default as MobileNavigation } from '../..\\components\\MobileNavigation.vue'
 export { default as Navigation } from '../..\\components\\Navigation.vue'
 export { default as NewsletterFour } from '../..\\components\\NewsletterFour.vue'
@@ -89,6 +90,7 @@ export { default as NewsletterThree } from '../..\\components\\NewsletterThree.v
 export { default as NewsletterTwo } from '../..\\components\\NewsletterTwo.vue'
 export { default as OffCanvasMobileMenu } from '../..\\components\\OffCanvasMobileMenu.vue'
 export { default as OnlineCoachingLessons } from '../..\\components\\OnlineCoachingLessons.vue'
+export { default as OsoczeDetailsSidebar } from '../..\\components\\OsoczeDetailsSidebar.vue'
 export { default as PageBannerOne } from '../..\\components\\PageBannerOne.vue'
 export { default as RegisterContentBox } from '../..\\components\\RegisterContentBox.vue'
 export { default as RelatedCourse } from '../..\\components\\RelatedCourse.vue'
@@ -129,6 +131,8 @@ export { default as ZoomMeetingPost } from '../..\\components\\ZoomMeetingPost.v
 export { default as ZabiegBruksizm } from '../..\\components\\zabiegi\\ZabiegBruksizm.vue'
 export { default as ZabiegKwasHialuronowy } from '../..\\components\\zabiegi\\ZabiegKwasHialuronowy.vue'
 export { default as ZabiegLeczenieNadpotliwosci } from '../..\\components\\zabiegi\\ZabiegLeczenieNadpotliwosci.vue'
+export { default as ZabiegMezoterapia } from '../..\\components\\zabiegi\\ZabiegMezoterapia.vue'
+export { default as ZabiegOsoczeBogatoplytkowe } from '../..\\components\\zabiegi\\ZabiegOsoczeBogatoplytkowe.vue'
 export { default as ZabiegPowiekszanieUst } from '../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue'
 
 export const LazyAboutApp = import('../..\\components\\AboutApp.vue' /* webpackChunkName: "components_AboutApp" */).then(c => c.default || c)
@@ -214,6 +218,7 @@ export const LazyLearnGym = import('../..\\components\\LearnGym.vue' /* webpackC
 export const LazyLeczenieNadpotliwosciDetailsSidebar = import('../..\\components\\LeczenieNadpotliwosciDetailsSidebar.vue' /* webpackChunkName: "components_LeczenieNadpotliwosciDetailsSidebar" */).then(c => c.default || c)
 export const LazyLeranerGallery = import('../..\\components\\LeranerGallery.vue' /* webpackChunkName: "components_LeranerGallery" */).then(c => c.default || c)
 export const LazyMembershipLevelTable = import('../..\\components\\MembershipLevelTable.vue' /* webpackChunkName: "components_MembershipLevelTable" */).then(c => c.default || c)
+export const LazyMezoterapiaDetailsSidebar = import('../..\\components\\MezoterapiaDetailsSidebar.vue' /* webpackChunkName: "components_MezoterapiaDetailsSidebar" */).then(c => c.default || c)
 export const LazyMobileNavigation = import('../..\\components\\MobileNavigation.vue' /* webpackChunkName: "components_MobileNavigation" */).then(c => c.default || c)
 export const LazyNavigation = import('../..\\components\\Navigation.vue' /* webpackChunkName: "components_Navigation" */).then(c => c.default || c)
 export const LazyNewsletterFour = import('../..\\components\\NewsletterFour.vue' /* webpackChunkName: "components_NewsletterFour" */).then(c => c.default || c)
@@ -222,6 +227,7 @@ export const LazyNewsletterThree = import('../..\\components\\NewsletterThree.vu
 export const LazyNewsletterTwo = import('../..\\components\\NewsletterTwo.vue' /* webpackChunkName: "components_NewsletterTwo" */).then(c => c.default || c)
 export const LazyOffCanvasMobileMenu = import('../..\\components\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components_OffCanvasMobileMenu" */).then(c => c.default || c)
 export const LazyOnlineCoachingLessons = import('../..\\components\\OnlineCoachingLessons.vue' /* webpackChunkName: "components_OnlineCoachingLessons" */).then(c => c.default || c)
+export const LazyOsoczeDetailsSidebar = import('../..\\components\\OsoczeDetailsSidebar.vue' /* webpackChunkName: "components_OsoczeDetailsSidebar" */).then(c => c.default || c)
 export const LazyPageBannerOne = import('../..\\components\\PageBannerOne.vue' /* webpackChunkName: "components_PageBannerOne" */).then(c => c.default || c)
 export const LazyRegisterContentBox = import('../..\\components\\RegisterContentBox.vue' /* webpackChunkName: "components_RegisterContentBox" */).then(c => c.default || c)
 export const LazyRelatedCourse = import('../..\\components\\RelatedCourse.vue' /* webpackChunkName: "components_RelatedCourse" */).then(c => c.default || c)
@@ -262,4 +268,6 @@ export const LazyZoomMeetingPost = import('../..\\components\\ZoomMeetingPost.vu
 export const LazyZabiegBruksizm = import('../..\\components\\zabiegi\\ZabiegBruksizm.vue' /* webpackChunkName: "components_zabiegi/ZabiegBruksizm" */).then(c => c.default || c)
 export const LazyZabiegKwasHialuronowy = import('../..\\components\\zabiegi\\ZabiegKwasHialuronowy.vue' /* webpackChunkName: "components_zabiegi/ZabiegKwasHialuronowy" */).then(c => c.default || c)
 export const LazyZabiegLeczenieNadpotliwosci = import('../..\\components\\zabiegi\\ZabiegLeczenieNadpotliwosci.vue' /* webpackChunkName: "components_zabiegi/ZabiegLeczenieNadpotliwosci" */).then(c => c.default || c)
+export const LazyZabiegMezoterapia = import('../..\\components\\zabiegi\\ZabiegMezoterapia.vue' /* webpackChunkName: "components_zabiegi/ZabiegMezoterapia" */).then(c => c.default || c)
+export const LazyZabiegOsoczeBogatoplytkowe = import('../..\\components\\zabiegi\\ZabiegOsoczeBogatoplytkowe.vue' /* webpackChunkName: "components_zabiegi/ZabiegOsoczeBogatoplytkowe" */).then(c => c.default || c)
 export const LazyZabiegPowiekszanieUst = import('../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue' /* webpackChunkName: "components_zabiegi/ZabiegPowiekszanieUst" */).then(c => c.default || c)

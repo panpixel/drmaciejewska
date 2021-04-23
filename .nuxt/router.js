@@ -18,9 +18,11 @@ const _702e4c91 = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpac
 const _2d879ece = () => interopDefault(import('..\\pages\\kwas-hialuronowy.vue' /* webpackChunkName: "pages/kwas-hialuronowy" */))
 const _30f444c7 = () => interopDefault(import('..\\pages\\leczenie-nadpotliwosci.vue' /* webpackChunkName: "pages/leczenie-nadpotliwosci" */))
 const _759882b4 = () => interopDefault(import('..\\pages\\login-register.vue' /* webpackChunkName: "pages/login-register" */))
+const _536f1d2c = () => interopDefault(import('..\\pages\\mezoterapia.vue' /* webpackChunkName: "pages/mezoterapia" */))
 const _1d0f969f = () => interopDefault(import('..\\pages\\modern-schooling.vue' /* webpackChunkName: "pages/modern-schooling" */))
 const _5964fb82 = () => interopDefault(import('..\\pages\\multimedia-pedagogy.vue' /* webpackChunkName: "pages/multimedia-pedagogy" */))
 const _e120ef8c = () => interopDefault(import('..\\pages\\o-mnie.vue' /* webpackChunkName: "pages/o-mnie" */))
+const _6df4d8c6 = () => interopDefault(import('..\\pages\\osocze-bogatoplytkowe.vue' /* webpackChunkName: "pages/osocze-bogatoplytkowe" */))
 const _50e437cf = () => interopDefault(import('..\\pages\\powiekszanie-ust.vue' /* webpackChunkName: "pages/powiekszanie-ust" */))
 const _3a134e72 = () => interopDefault(import('..\\pages\\remote-training.vue' /* webpackChunkName: "pages/remote-training" */))
 const _2fd8fc8a = () => interopDefault(import('..\\pages\\zabiegi.vue' /* webpackChunkName: "pages/zabiegi" */))
@@ -116,6 +118,10 @@ export const routerOptions = {
     component: _759882b4,
     name: "login-register"
   }, {
+    path: "/mezoterapia",
+    component: _536f1d2c,
+    name: "mezoterapia"
+  }, {
     path: "/modern-schooling",
     component: _1d0f969f,
     name: "modern-schooling"
@@ -127,6 +133,10 @@ export const routerOptions = {
     path: "/o-mnie",
     component: _e120ef8c,
     name: "o-mnie"
+  }, {
+    path: "/osocze-bogatoplytkowe",
+    component: _6df4d8c6,
+    name: "osocze-bogatoplytkowe"
   }, {
     path: "/powiekszanie-ust",
     component: _50e437cf,

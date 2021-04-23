@@ -45,6 +45,16 @@
                         </n-link>
                     </li>
                     
+                      <li>
+                        <n-link to="/mezoterapia">
+                            <span class="menu-text">Mezoterapia</span>
+                        </n-link>
+                    </li>
+                      <li>
+                        <n-link to="/osocze-bogatoplytkowe">
+                            <span class="menu-text">Osocze płytkowe</span>
+                        </n-link>
+                    </li>
                 </ul>
             </li>
             <li>

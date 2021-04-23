@@ -105,6 +105,13 @@
     "_name": "_759882b4"
   },
   {
+    "name": "mezoterapia",
+    "path": "/mezoterapia",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\mezoterapia.vue",
+    "chunkName": "pages/mezoterapia",
+    "_name": "_536f1d2c"
+  },
+  {
     "name": "modern-schooling",
     "path": "/modern-schooling",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\modern-schooling.vue",
@@ -124,6 +131,13 @@
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\o-mnie.vue",
     "chunkName": "pages/o-mnie",
     "_name": "_e120ef8c"
+  },
+  {
+    "name": "osocze-bogatoplytkowe",
+    "path": "/osocze-bogatoplytkowe",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\osocze-bogatoplytkowe.vue",
+    "chunkName": "pages/osocze-bogatoplytkowe",
+    "_name": "_6df4d8c6"
   },
   {
     "name": "powiekszanie-ust",
