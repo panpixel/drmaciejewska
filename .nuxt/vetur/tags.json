@@ -491,6 +491,12 @@
   "LazyLeranerGallery": {
     "description": "Auto imported from components/LeranerGallery.vue"
   },
+  "LiftingNicmiPdoDetailsSidebar": {
+    "description": "Auto imported from components/LiftingNicmiPdoDetailsSidebar.vue"
+  },
+  "LazyLiftingNicmiPdoDetailsSidebar": {
+    "description": "Auto imported from components/LiftingNicmiPdoDetailsSidebar.vue"
+  },
   "MembershipLevelTable": {
     "description": "Auto imported from components/MembershipLevelTable.vue"
   },
@@ -796,6 +802,12 @@
   },
   "LazyZabiegLeczenieNadpotliwosci": {
     "description": "Auto imported from components/zabiegi/ZabiegLeczenieNadpotliwosci.vue"
+  },
+  "ZabiegLiftingNicmiPdo": {
+    "description": "Auto imported from components/zabiegi/ZabiegLiftingNicmiPdo.vue"
+  },
+  "LazyZabiegLiftingNicmiPdo": {
+    "description": "Auto imported from components/zabiegi/ZabiegLiftingNicmiPdo.vue"
   },
   "ZabiegMezoterapia": {
     "description": "Auto imported from components/zabiegi/ZabiegMezoterapia.vue"

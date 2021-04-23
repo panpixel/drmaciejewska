@@ -98,6 +98,13 @@
     "_name": "_30f444c7"
   },
   {
+    "name": "lifting-nicmi-PDO",
+    "path": "/lifting-nicmi-PDO",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\lifting-nicmi-PDO.vue",
+    "chunkName": "pages/lifting-nicmi-PDO",
+    "_name": "_622ff7e6"
+  },
+  {
     "name": "login-register",
     "path": "/login-register",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\login-register.vue",

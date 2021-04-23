@@ -17,6 +17,7 @@ const _ef85893c = () => interopDefault(import('..\\pages\\kitchen-coach.vue' /* 
 const _702e4c91 = () => interopDefault(import('..\\pages\\kontakt.vue' /* webpackChunkName: "pages/kontakt" */))
 const _2d879ece = () => interopDefault(import('..\\pages\\kwas-hialuronowy.vue' /* webpackChunkName: "pages/kwas-hialuronowy" */))
 const _30f444c7 = () => interopDefault(import('..\\pages\\leczenie-nadpotliwosci.vue' /* webpackChunkName: "pages/leczenie-nadpotliwosci" */))
+const _622ff7e6 = () => interopDefault(import('..\\pages\\lifting-nicmi-PDO.vue' /* webpackChunkName: "pages/lifting-nicmi-PDO" */))
 const _759882b4 = () => interopDefault(import('..\\pages\\login-register.vue' /* webpackChunkName: "pages/login-register" */))
 const _536f1d2c = () => interopDefault(import('..\\pages\\mezoterapia.vue' /* webpackChunkName: "pages/mezoterapia" */))
 const _1d0f969f = () => interopDefault(import('..\\pages\\modern-schooling.vue' /* webpackChunkName: "pages/modern-schooling" */))
@@ -113,6 +114,10 @@ export const routerOptions = {
     path: "/leczenie-nadpotliwosci",
     component: _30f444c7,
     name: "leczenie-nadpotliwosci"
+  }, {
+    path: "/lifting-nicmi-PDO",
+    component: _622ff7e6,
+    name: "lifting-nicmi-PDO"
   }, {
     path: "/login-register",
     component: _759882b4,

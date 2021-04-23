@@ -50,6 +50,11 @@
                             <span class="menu-text">Osocze płytkowe</span>
                         </n-link>
                     </li>
+                       <li>
+                        <n-link to="/lifting-nicmi-PDO">
+                            <span class="menu-text">Lifting nićmi PDO</span>
+                        </n-link>
+                    </li>
                        
                     </ul>
                 </li>
