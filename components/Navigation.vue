@@ -70,6 +70,11 @@
                             <span class="menu-text">DR. CYJ HAIR FILLER</span>
                         </n-link>
                     </li>
+                      <li>
+                        <n-link to="/plasma-complex">
+                            <span class="menu-text">PLASMA COMPLEX</span>
+                        </n-link>
+                    </li>
                 </ul>
             </li>
             <li>

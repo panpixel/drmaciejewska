@@ -94,6 +94,7 @@ export { default as OffCanvasMobileMenu } from '../..\\components\\OffCanvasMobi
 export { default as OnlineCoachingLessons } from '../..\\components\\OnlineCoachingLessons.vue'
 export { default as OsoczeDetailsSidebar } from '../..\\components\\OsoczeDetailsSidebar.vue'
 export { default as PageBannerOne } from '../..\\components\\PageBannerOne.vue'
+export { default as PlasmaComplexDetailsSidebar } from '../..\\components\\PlasmaComplexDetailsSidebar.vue'
 export { default as RegisterContentBox } from '../..\\components\\RegisterContentBox.vue'
 export { default as RelatedCourse } from '../..\\components\\RelatedCourse.vue'
 export { default as SearchPopup } from '../..\\components\\SearchPopup.vue'
@@ -138,6 +139,7 @@ export { default as ZabiegLeczenieNadpotliwosci } from '../..\\components\\zabie
 export { default as ZabiegLiftingNicmiPdo } from '../..\\components\\zabiegi\\ZabiegLiftingNicmiPdo.vue'
 export { default as ZabiegMezoterapia } from '../..\\components\\zabiegi\\ZabiegMezoterapia.vue'
 export { default as ZabiegOsoczeBogatoplytkowe } from '../..\\components\\zabiegi\\ZabiegOsoczeBogatoplytkowe.vue'
+export { default as ZabiegPlasmaComplex } from '../..\\components\\zabiegi\\ZabiegPlasmaComplex.vue'
 export { default as ZabiegPowiekszanieUst } from '../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue'
 export { default as ZabiegToksynaBotulinowa } from '../..\\components\\zabiegi\\ZabiegToksynaBotulinowa.vue'
 
@@ -237,6 +239,7 @@ export const LazyOffCanvasMobileMenu = import('../..\\components\\OffCanvasMobil
 export const LazyOnlineCoachingLessons = import('../..\\components\\OnlineCoachingLessons.vue' /* webpackChunkName: "components_OnlineCoachingLessons" */).then(c => c.default || c)
 export const LazyOsoczeDetailsSidebar = import('../..\\components\\OsoczeDetailsSidebar.vue' /* webpackChunkName: "components_OsoczeDetailsSidebar" */).then(c => c.default || c)
 export const LazyPageBannerOne = import('../..\\components\\PageBannerOne.vue' /* webpackChunkName: "components_PageBannerOne" */).then(c => c.default || c)
+export const LazyPlasmaComplexDetailsSidebar = import('../..\\components\\PlasmaComplexDetailsSidebar.vue' /* webpackChunkName: "components_PlasmaComplexDetailsSidebar" */).then(c => c.default || c)
 export const LazyRegisterContentBox = import('../..\\components\\RegisterContentBox.vue' /* webpackChunkName: "components_RegisterContentBox" */).then(c => c.default || c)
 export const LazyRelatedCourse = import('../..\\components\\RelatedCourse.vue' /* webpackChunkName: "components_RelatedCourse" */).then(c => c.default || c)
 export const LazySearchPopup = import('../..\\components\\SearchPopup.vue' /* webpackChunkName: "components_SearchPopup" */).then(c => c.default || c)
@@ -281,5 +284,6 @@ export const LazyZabiegLeczenieNadpotliwosci = import('../..\\components\\zabieg
 export const LazyZabiegLiftingNicmiPdo = import('../..\\components\\zabiegi\\ZabiegLiftingNicmiPdo.vue' /* webpackChunkName: "components_zabiegi/ZabiegLiftingNicmiPdo" */).then(c => c.default || c)
 export const LazyZabiegMezoterapia = import('../..\\components\\zabiegi\\ZabiegMezoterapia.vue' /* webpackChunkName: "components_zabiegi/ZabiegMezoterapia" */).then(c => c.default || c)
 export const LazyZabiegOsoczeBogatoplytkowe = import('../..\\components\\zabiegi\\ZabiegOsoczeBogatoplytkowe.vue' /* webpackChunkName: "components_zabiegi/ZabiegOsoczeBogatoplytkowe" */).then(c => c.default || c)
+export const LazyZabiegPlasmaComplex = import('../..\\components\\zabiegi\\ZabiegPlasmaComplex.vue' /* webpackChunkName: "components_zabiegi/ZabiegPlasmaComplex" */).then(c => c.default || c)
 export const LazyZabiegPowiekszanieUst = import('../..\\components\\zabiegi\\ZabiegPowiekszanieUst.vue' /* webpackChunkName: "components_zabiegi/ZabiegPowiekszanieUst" */).then(c => c.default || c)
 export const LazyZabiegToksynaBotulinowa = import('../..\\components\\zabiegi\\ZabiegToksynaBotulinowa.vue' /* webpackChunkName: "components_zabiegi/ZabiegToksynaBotulinowa" */).then(c => c.default || c)

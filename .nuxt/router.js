@@ -26,6 +26,7 @@ const _1d0f969f = () => interopDefault(import('..\\pages\\modern-schooling.vue' 
 const _5964fb82 = () => interopDefault(import('..\\pages\\multimedia-pedagogy.vue' /* webpackChunkName: "pages/multimedia-pedagogy" */))
 const _e120ef8c = () => interopDefault(import('..\\pages\\o-mnie.vue' /* webpackChunkName: "pages/o-mnie" */))
 const _15cb30ee = () => interopDefault(import('..\\pages\\osocze-fibryna.vue' /* webpackChunkName: "pages/osocze-fibryna" */))
+const _f0d4bb78 = () => interopDefault(import('..\\pages\\plasma-complex.vue' /* webpackChunkName: "pages/plasma-complex" */))
 const _50e437cf = () => interopDefault(import('..\\pages\\powiekszanie-ust.vue' /* webpackChunkName: "pages/powiekszanie-ust" */))
 const _3a134e72 = () => interopDefault(import('..\\pages\\remote-training.vue' /* webpackChunkName: "pages/remote-training" */))
 const _2fd8fc8a = () => interopDefault(import('..\\pages\\zabiegi.vue' /* webpackChunkName: "pages/zabiegi" */))
@@ -152,6 +153,10 @@ export const routerOptions = {
     path: "/osocze-fibryna",
     component: _15cb30ee,
     name: "osocze-fibryna"
+  }, {
+    path: "/plasma-complex",
+    component: _f0d4bb78,
+    name: "plasma-complex"
   }, {
     path: "/powiekszanie-ust",
     component: _50e437cf,

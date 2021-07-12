@@ -131,6 +131,12 @@
                      
                        
                     </tr>
+                     <tr>
+                        <td class="desc"><a href="#">leczenie migreny przewlekłej</a></td>
+                        <td>od 2200zł</td>
+                     
+                       
+                    </tr>
 
                     
                 </tbody>
@@ -235,6 +241,11 @@
                         <td>50zł</td>                       
                       
                     </tr>  
+                      <tr>
+                        <td class="desc"><a href="#">PLASMA COMPLEX</a></td>
+                        <td>1000zł</td>                       
+                      
+                    </tr> 
                 </tbody>
                  <thead>
                     <tr>
@@ -326,6 +337,7 @@
                                 <li><a href="#">uniesienie łuku brwiowego: <strong>290zł</strong></a></li>
                                 <li><a href="#">leczenie bruksizmu: <strong>790zł</strong></a></li>
                                 <li><a href="#">leczenie nadpotliwości (pachy): <strong>od 1500zł</strong></a></li>
+                                 <li><a href="#">leczenie migreny przewlekłej: <strong>od 2200zł</strong></a></li>
                             </ul>
                         </div>
                         
@@ -383,6 +395,7 @@
                                <li><a href="#">terapia łączona (osocze + fibryna): <strong>950zł</strong></a></li>
                                <li><a href="#">konsultacja w zakresie medycyny estetycznej: <strong>100zł</strong></a></li>
                                <li><a href="#">znieczulenie przedzabiegowe: <strong>50zł</strong></a></li>
+                               <li><a href="#">PLASMA COMPLEX: <strong>1000zł</strong></a></li>
                             </ul>
                         </div>
                         

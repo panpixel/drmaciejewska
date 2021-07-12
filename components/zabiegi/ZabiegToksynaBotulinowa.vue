@@ -122,7 +122,8 @@
                     "zmarszczki powiek dolnych",
                     "leczenie bruksizmu", 
                     "leczenie nadpotliwości",
-                    "broda marmurkowa"
+                    "broda marmurkowa",
+                    "migrena przewlekła"
                     
                                                     
                 ],

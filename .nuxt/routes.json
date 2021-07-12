@@ -161,6 +161,13 @@
     "_name": "_15cb30ee"
   },
   {
+    "name": "plasma-complex",
+    "path": "/plasma-complex",
+    "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\plasma-complex.vue",
+    "chunkName": "pages/plasma-complex",
+    "_name": "_f0d4bb78"
+  },
+  {
     "name": "powiekszanie-ust",
     "path": "/powiekszanie-ust",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\powiekszanie-ust.vue",

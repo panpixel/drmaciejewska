@@ -575,6 +575,12 @@
   "LazyPageBannerOne": {
     "description": "Auto imported from components/PageBannerOne.vue"
   },
+  "PlasmaComplexDetailsSidebar": {
+    "description": "Auto imported from components/PlasmaComplexDetailsSidebar.vue"
+  },
+  "LazyPlasmaComplexDetailsSidebar": {
+    "description": "Auto imported from components/PlasmaComplexDetailsSidebar.vue"
+  },
   "RegisterContentBox": {
     "description": "Auto imported from components/RegisterContentBox.vue"
   },
@@ -838,6 +844,12 @@
   },
   "LazyZabiegOsoczeBogatoplytkowe": {
     "description": "Auto imported from components/zabiegi/ZabiegOsoczeBogatoplytkowe.vue"
+  },
+  "ZabiegPlasmaComplex": {
+    "description": "Auto imported from components/zabiegi/ZabiegPlasmaComplex.vue"
+  },
+  "LazyZabiegPlasmaComplex": {
+    "description": "Auto imported from components/zabiegi/ZabiegPlasmaComplex.vue"
   },
   "ZabiegPowiekszanieUst": {
     "description": "Auto imported from components/zabiegi/ZabiegPowiekszanieUst.vue"
