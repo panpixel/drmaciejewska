@@ -12,14 +12,14 @@
                         <li>
                             <n-link to="/">Home</n-link>
                         </li>
-                        <li class="current">Osocze Bogatopłytkowe</li>
+                        <li class="current">Osocze i Fibryna</li>
                     </ul>
                 </div>
             </div>
 
             <div class="page-title">
                 <div class="container">
-                    <h1 class="title">Osocze Bogatopłytkowe</h1>
+                    <h1 class="title">Osocze i Fibryna</h1>
                 </div>
             </div>
         </div>

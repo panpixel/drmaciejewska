@@ -51,8 +51,8 @@
                         </n-link>
                     </li>
                       <li>
-                        <n-link to="/osocze-bogatoplytkowe">
-                            <span class="menu-text">Osocze płytkowe</span>
+                        <n-link to="/osocze-fibryna">
+                            <span class="menu-text">Osocze i Fibryna</span>
                         </n-link>
                     </li>
                         <li>
