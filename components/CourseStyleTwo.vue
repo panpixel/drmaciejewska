@@ -57,24 +57,15 @@
             return {
                 courses: [
                     {
-                        imgSrc: "/images/zabiegi/bruksizm-medycyna-estetyczna-drmaciejewska.jpg",
-                        alt: "Bruksizm",
-                        price: "od 790 zł",
-                        title: "Bruksizm",
+                        imgSrc: "/images/zabiegi/plasmacomplex-medycyna-estetyczna-drmaciejewska.jpg",
+                        alt: "Plasma Complex",
+                        price: "1000 zł",
+                        title: "Plasma Complex",
                         lessons: "20 Lessons",
                         students: "51 Students",
-                        desc: "Bruksizm to podświadome (mimowolne) zgrzytanie i zaciskanie zębów ..."
+                        desc: "wykorzystywana jest synergia działania własnych komórek macierzystych  ..."
                     },
-                    {
-                        imgSrc: "/images/zabiegi/kwas-hialuronowy-estetyczna-drmaciejewska.jpg",
-                        alt: "Kwas hialuronowy",
-                        price: "od 750 zł",
-                        title: "Kwas hialuronowy",
-                        lessons: "40 Lessons",
-                        students: "80 Students",
-                        desc: "Kwas hialuronowy jest naturalną substancją występującą w naszej skórze …"
-                    },
-                    {
+                      {
                         imgSrc: "/images/zabiegi/leczenie-nadpotliwosci-estetyczna-drmacejewska.jpg",
                         alt: "Leczenie Nadpotliwości",
                         price: "od 1500 zł",
@@ -82,7 +73,8 @@
                         lessons: "16 Lessons",
                         students: "57 Students",
                         desc: "Właściwą funkcją organizmu jest wydzielanie potu ale jego nadmiar jest bardzo kłopotliwy …"
-                    },
+                    },                  
+                  
                     {
                         imgSrc: "/images/courses/385/course-4.jpg",
                         alt: "Mezoterapia NCTF 135HA",
@@ -91,6 +83,15 @@
                         lessons: "20 Lessons",
                         students: "51 Students",
                         desc: "Mezoterapia jest metodą stosowaną od wielu lat na całym świecie w celu miejscowej rewitalizacji skóry …"
+                    },
+                     {
+                        imgSrc: "/images/zabiegi/kwas-hialuronowy-estetyczna-drmaciejewska.jpg",
+                        alt: "Kwas hialuronowy",
+                        price: "od 750 zł",
+                        title: "Kwas hialuronowy",
+                        lessons: "40 Lessons",
+                        students: "80 Students",
+                        desc: "Kwas hialuronowy jest naturalną substancją występującą w naszej skórze …"
                     }
                 ]
             }
