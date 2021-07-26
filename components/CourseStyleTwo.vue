@@ -77,9 +77,9 @@
                   
                     {
                         imgSrc: "/images/courses/385/course-4.jpg",
-                        alt: "Mezoterapia NCTF 135HA",
+                        alt: "Mezoterapia Jalupro",
                         price: "600 zł",
-                        title: "Mezoterapia NCTF 135HA",
+                        title: "Mezoterapia Jalupro",
                         lessons: "20 Lessons",
                         students: "51 Students",
                         desc: "Mezoterapia jest metodą stosowaną od wielu lat na całym świecie w celu miejscowej rewitalizacji skóry …"

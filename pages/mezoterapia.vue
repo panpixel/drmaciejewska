@@ -12,14 +12,14 @@
                         <li>
                             <n-link to="/">Home</n-link>
                         </li>
-                        <li class="current">Mezoterapia NCTF 135HA</li>
+                        <li class="current">Mezoterapia Jalupro®</li>
                     </ul>
                 </div>
             </div>
 
             <div class="page-title">
                 <div class="container">
-                    <h1 class="title">Mezoterapia NCTF 135HA </h1>
+                    <h1 class="title">Mezoterapia Jalupro® </h1>
                 </div>
             </div>
         </div>

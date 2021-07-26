@@ -3,287 +3,246 @@
     "name": "about-me",
     "path": "/about-me",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\about-me.vue",
-    "chunkName": "pages/about-me",
-    "_name": "_1e8402b7"
+    "chunkName": "pages/about-me"
   },
   {
     "name": "about-us-two",
     "path": "/about-us-two",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\about-us-two.vue",
-    "chunkName": "pages/about-us-two",
-    "_name": "_532f15bc"
+    "chunkName": "pages/about-us-two"
   },
   {
     "name": "botoks",
     "path": "/botoks",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\botoks.vue",
-    "chunkName": "pages/botoks",
-    "_name": "_7196d78f"
+    "chunkName": "pages/botoks"
   },
   {
     "name": "bruksizm",
     "path": "/bruksizm",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\bruksizm.vue",
-    "chunkName": "pages/bruksizm",
-    "_name": "_7841974e"
+    "chunkName": "pages/bruksizm"
   },
   {
     "name": "business",
     "path": "/business",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\business.vue",
-    "chunkName": "pages/business",
-    "_name": "_3f37c29f"
+    "chunkName": "pages/business"
   },
   {
     "name": "cennik",
     "path": "/cennik",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\cennik.vue",
-    "chunkName": "pages/cennik",
-    "_name": "_19a7863a"
+    "chunkName": "pages/cennik"
   },
   {
     "name": "contact-us",
     "path": "/contact-us",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\contact-us.vue",
-    "chunkName": "pages/contact-us",
-    "_name": "_980041ec"
+    "chunkName": "pages/contact-us"
   },
   {
     "name": "course-portal",
     "path": "/course-portal",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course-portal.vue",
-    "chunkName": "pages/course-portal",
-    "_name": "_57ba060f"
+    "chunkName": "pages/course-portal"
   },
   {
     "name": "distant-learning",
     "path": "/distant-learning",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\distant-learning.vue",
-    "chunkName": "pages/distant-learning",
-    "_name": "_e406c86e"
+    "chunkName": "pages/distant-learning"
   },
   {
     "name": "dr-cyj-hair-filler",
     "path": "/dr-cyj-hair-filler",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\dr-cyj-hair-filler.vue",
-    "chunkName": "pages/dr-cyj-hair-filler",
-    "_name": "_1fd6b982"
+    "chunkName": "pages/dr-cyj-hair-filler"
   },
   {
     "name": "gym-coaching",
     "path": "/gym-coaching",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\gym-coaching.vue",
-    "chunkName": "pages/gym-coaching",
-    "_name": "_0fd3998e"
+    "chunkName": "pages/gym-coaching"
   },
   {
     "name": "health-coaching",
     "path": "/health-coaching",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\health-coaching.vue",
-    "chunkName": "pages/health-coaching",
-    "_name": "_3ffd1d4a"
+    "chunkName": "pages/health-coaching"
   },
   {
     "name": "kitchen-coach",
     "path": "/kitchen-coach",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\kitchen-coach.vue",
-    "chunkName": "pages/kitchen-coach",
-    "_name": "_ef85893c"
+    "chunkName": "pages/kitchen-coach"
   },
   {
     "name": "kontakt",
     "path": "/kontakt",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\kontakt.vue",
-    "chunkName": "pages/kontakt",
-    "_name": "_702e4c91"
+    "chunkName": "pages/kontakt"
   },
   {
     "name": "kwas-hialuronowy",
     "path": "/kwas-hialuronowy",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\kwas-hialuronowy.vue",
-    "chunkName": "pages/kwas-hialuronowy",
-    "_name": "_2d879ece"
+    "chunkName": "pages/kwas-hialuronowy"
   },
   {
     "name": "leczenie-nadpotliwosci",
     "path": "/leczenie-nadpotliwosci",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\leczenie-nadpotliwosci.vue",
-    "chunkName": "pages/leczenie-nadpotliwosci",
-    "_name": "_30f444c7"
+    "chunkName": "pages/leczenie-nadpotliwosci"
   },
   {
     "name": "lifting-nicmi-PDO",
     "path": "/lifting-nicmi-PDO",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\lifting-nicmi-PDO.vue",
-    "chunkName": "pages/lifting-nicmi-PDO",
-    "_name": "_622ff7e6"
+    "chunkName": "pages/lifting-nicmi-PDO"
   },
   {
     "name": "login-register",
     "path": "/login-register",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\login-register.vue",
-    "chunkName": "pages/login-register",
-    "_name": "_759882b4"
+    "chunkName": "pages/login-register"
   },
   {
     "name": "mezoterapia",
     "path": "/mezoterapia",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\mezoterapia.vue",
-    "chunkName": "pages/mezoterapia",
-    "_name": "_536f1d2c"
+    "chunkName": "pages/mezoterapia"
   },
   {
     "name": "modern-schooling",
     "path": "/modern-schooling",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\modern-schooling.vue",
-    "chunkName": "pages/modern-schooling",
-    "_name": "_1d0f969f"
+    "chunkName": "pages/modern-schooling"
   },
   {
     "name": "multimedia-pedagogy",
     "path": "/multimedia-pedagogy",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\multimedia-pedagogy.vue",
-    "chunkName": "pages/multimedia-pedagogy",
-    "_name": "_5964fb82"
+    "chunkName": "pages/multimedia-pedagogy"
   },
   {
     "name": "o-mnie",
     "path": "/o-mnie",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\o-mnie.vue",
-    "chunkName": "pages/o-mnie",
-    "_name": "_e120ef8c"
+    "chunkName": "pages/o-mnie"
   },
   {
     "name": "osocze-fibryna",
     "path": "/osocze-fibryna",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\osocze-fibryna.vue",
-    "chunkName": "pages/osocze-fibryna",
-    "_name": "_15cb30ee"
+    "chunkName": "pages/osocze-fibryna"
   },
   {
     "name": "plasma-complex",
     "path": "/plasma-complex",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\plasma-complex.vue",
-    "chunkName": "pages/plasma-complex",
-    "_name": "_f0d4bb78"
+    "chunkName": "pages/plasma-complex"
   },
   {
     "name": "powiekszanie-ust",
     "path": "/powiekszanie-ust",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\powiekszanie-ust.vue",
-    "chunkName": "pages/powiekszanie-ust",
-    "_name": "_50e437cf"
+    "chunkName": "pages/powiekszanie-ust"
   },
   {
     "name": "remote-training",
     "path": "/remote-training",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\remote-training.vue",
-    "chunkName": "pages/remote-training",
-    "_name": "_3a134e72"
+    "chunkName": "pages/remote-training"
   },
   {
     "name": "zabiegi",
     "path": "/zabiegi",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\zabiegi.vue",
-    "chunkName": "pages/zabiegi",
-    "_name": "_2fd8fc8a"
+    "chunkName": "pages/zabiegi"
   },
   {
     "name": "blog-blog-classic",
     "path": "/blog/blog-classic",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\blog\\\\blog-classic.vue",
-    "chunkName": "pages/blog/blog-classic",
-    "_name": "_5be84aa8"
+    "chunkName": "pages/blog/blog-classic"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\blog\\\\blog-details.vue",
-    "chunkName": "pages/blog/blog-details",
-    "_name": "_29e8a750"
+    "chunkName": "pages/blog/blog-details"
   },
   {
     "name": "blog-blog-grid",
     "path": "/blog/blog-grid",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\blog\\\\blog-grid.vue",
-    "chunkName": "pages/blog/blog-grid",
-    "_name": "_51a23320"
+    "chunkName": "pages/blog/blog-grid"
   },
   {
     "name": "course-become-a-teacher",
     "path": "/course/become-a-teacher",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\become-a-teacher.vue",
-    "chunkName": "pages/course/become-a-teacher",
-    "_name": "_7842efac"
+    "chunkName": "pages/course/become-a-teacher"
   },
   {
     "name": "course-course-details",
     "path": "/course/course-details",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\course-details.vue",
-    "chunkName": "pages/course/course-details",
-    "_name": "_3b08ed4a"
+    "chunkName": "pages/course/course-details"
   },
   {
     "name": "course-courses-grid-one",
     "path": "/course/courses-grid-one",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\courses-grid-one.vue",
-    "chunkName": "pages/course/courses-grid-one",
-    "_name": "_68972be4"
+    "chunkName": "pages/course/courses-grid-one"
   },
   {
     "name": "course-courses-grid-three",
     "path": "/course/courses-grid-three",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\courses-grid-three.vue",
-    "chunkName": "pages/course/courses-grid-three",
-    "_name": "_32cd4146"
+    "chunkName": "pages/course/courses-grid-three"
   },
   {
     "name": "course-courses-grid-two",
     "path": "/course/courses-grid-two",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\courses-grid-two.vue",
-    "chunkName": "pages/course/courses-grid-two",
-    "_name": "_37c7ca18"
+    "chunkName": "pages/course/courses-grid-two"
   },
   {
     "name": "course-membership-levels",
     "path": "/course/membership-levels",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\membership-levels.vue",
-    "chunkName": "pages/course/membership-levels",
-    "_name": "_f9765108"
+    "chunkName": "pages/course/membership-levels"
   },
   {
     "name": "course-profile",
     "path": "/course/profile",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\course\\\\profile.vue",
-    "chunkName": "pages/course/profile",
-    "_name": "_027ca9df"
+    "chunkName": "pages/course/profile"
   },
   {
     "name": "event-event",
     "path": "/event/event",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\event\\\\event.vue",
-    "chunkName": "pages/event/event",
-    "_name": "_5c11aa9f"
+    "chunkName": "pages/event/event"
   },
   {
     "name": "event-event-details",
     "path": "/event/event-details",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\event\\\\event-details.vue",
-    "chunkName": "pages/event/event-details",
-    "_name": "_073672d8"
+    "chunkName": "pages/event/event-details"
   },
   {
     "name": "event-zoom-meetings",
     "path": "/event/zoom-meetings",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\event\\\\zoom-meetings.vue",
-    "chunkName": "pages/event/zoom-meetings",
-    "_name": "_abfa4d52"
+    "chunkName": "pages/event/zoom-meetings"
   },
   {
     "name": "index",
     "path": "/",
     "component": "F:\\\\Nuxt\\\\drmaciejewska\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_d5c1a0fa"
+    "chunkName": "pages/index"
   }
 ]
